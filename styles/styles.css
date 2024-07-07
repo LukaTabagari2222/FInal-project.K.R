@@ -1,0 +1,148 @@
+.hederDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+    width: 90%;
+    margin: auto;
+    background-color: rgb(98, 105, 105);
+}
+
+
+.vazi-venaxia {
+    font-size: 25px;
+    color: rgb(220, 245, 224);
+    font-family: "KA_LORTKIPANIDZE", sans-serif;
+    text-shadow: 2px 2px rgb(230, 32, 32);
+    animation-name: vazi;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transition: 3s;
+    width: 180px;
+}
+
+@keyframes vazi {
+    10% {
+        color: rgb(0, 230, 38);
+        text-shadow: brown 2px 2px;
+    }
+
+    20% {
+        color: blueviolet;
+        text-shadow: rgb(10, 240, 48) 2px 2px;
+
+    }
+}
+
+.vazisLOgo-text {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+/* vazislogos style aedan */
+.fa-brands {
+    display: flex;
+    font-size: 35px;
+    color: blueviolet;
+    animation-name: mtevani;
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+    animation-duration: 2s;
+    transition: 7s;
+
+}
+
+@keyframes mtevani {
+    10% {
+        color: brown;
+        box-shadow: red 2px 2px 4px;
+    }
+
+    20% {
+        color: red;
+        box-shadow: rgb(100, 0, 104) 2px 2px 4px;
+    }
+
+    30% {
+        color: rosybrown;
+    }
+}
+
+/* aqamde */
+
+.navMen {
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    width: 100%;
+}
+
+.first-UlNamen {
+    display: flex;
+    gap: 52px;
+
+}
+
+
+.navBarTegs {
+    color: beige;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px red;
+    position: relative;
+    font-weight: 500;
+}
+
+.navBarTegs::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 0;
+    background-color: rgb(8, 8, 202);
+    transition: 3s;
+
+}
+
+.navBarTegs:hover::after {
+    width: 100%;
+    border: solid 2px;
+    background-color: rgb(146, 150, 147);
+
+
+}
+
+.navMen a {
+    display: flex;
+    transition: 3s;
+    animation-name: fontCvla;
+    animation-duration: 21s;
+    animation-iteration-count: 3;
+
+
+}
+
+@keyframes fontCvla {
+    10% {
+        font-family: 'sofia', sans-serif;
+
+
+    }
+
+    20% {
+        font-family: 'Ga Maamli', sans-serif;
+    }
+}
+
+.navMen a:hover {
+    color: rgb(168, 168, 168);
+    transition: 3s;
+    text-shadow: 2px 2px green;
+
+
+}
+
+.burger-Bichi {
+    display: none;
+}
+

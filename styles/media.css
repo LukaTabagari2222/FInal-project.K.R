@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1024px) {
+.first-UlNamen{
+    gap: 30px;
+    font-size: 21px;
+}
+}
+@media only screen and (max-width: 768px) {
+    .first-UlNamen{
+        gap: 20px;
+        font-size: 21px;
+        display: none;
+    }
+   .vazisLOgo-text{
+    gap: 250px;
+   }
+    }
+
+
+@media  only screen and (max-width:480px) {
+    .navMen {
+        display: none;
+        margin-top: 30px;
+    }
+
+    .burger-Bichi {
+        display: block;
+        position: absolute;
+        top: 10px;
+        right: 25px;
+    }
+
+    .first-UlNamen {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .hederDiv {
+        flex-direction: column;
+    }
+
+    .navMen.neewigeishen {
+        display: block;
+    }
+
+    .vazi-venaxia {
+        display: none;
+    }
+
+    .navBarTegs {
+        font-size: 20px;
+        font-style: italic;
+
+    }
+    .al{
+        margin-top: 10px;
+    }
+}
+@media  only screen and (max-width:320px){
+ .vazisLOgo-text{
+    justify-content: flex-start;
+ }
+}
+

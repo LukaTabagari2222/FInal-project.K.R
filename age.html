@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>Age Verification</h2>
+        <p>ხართ თუ არა სრულწლოვანი</p>
+        <button onclick="verifyAge()">კი</button>
+        <button onclick="underAge()">არა</button>
+    </div>
+
+    <div class="content-wrapper">
+      <p>alskjclaika akslmaklskl</p>
+      <img src="./images/video.mp4" alt="">
+    </div>
+    <script>
+      // Function to display content if user is over 18
+      function verifyAge() {
+          var age = prompt("Please enter your age:");
+          if (age && !isNaN(age) && parseInt(age) >= 18) {
+              document.querySelector(".content-wrapper").style.display = "block";
+              document.querySelector(".container").style.display = "none"; // Hide age verification section
+          } else {
+              alert("You must be over 18 years old to access this content.");
+          }
+      }
+
+      // Function to handle under age case (optional)
+      function underAge() {
+          alert("You must be over 18 years old to access this content.");
+      }
+  </script>
+ 
+
+</body>
+
+</html>
+<!-- .body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+    max-width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.content-wrapper {
+    display: none;
+} -->
