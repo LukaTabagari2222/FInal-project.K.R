@@ -232,7 +232,8 @@
     text-shadow: rgb(255, 255, 255) 2px 2px;
     text-align: center;
 }
-.named-sTori:hover{
+
+.named-sTori:hover {
     transition: 3s;
     color: beige;
     text-shadow: rgb(36, 180, 8) 2px 2px 7px;
@@ -243,4 +244,103 @@
     display: flex;
     align-items: center;
     gap: 128px;
+}
+
+.background-image {
+    display: flex;
+    background-image: url('../images/gvinisbacKground.svg');
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.carbent {
+   
+    font-family: JejuMyeongjo;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.315em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+  
+}
+
+.Dorema {
+    text-align: center;
+    font-family: JejuMyeongjo;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32.28px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    text-shadow: 2px 2px red;
+    width: 60%;
+}
+
+.image-botli {
+    background-color: rgb(94, 89, 89);
+    margin-top: 70px;
+}
+
+.backgroind-strings {
+    display: flex;
+    flex-direction: column;
+    margin-top: 108px;
+    gap: 50px;
+    align-items: center;
+}
+
+.leremas {
+    font-family: "Baskervville SC", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.smoldiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 115px;
+    height: 31px;
+    border: solid 1px;
+    border-color: beige;
+    border-radius: 6px;
+
+}
+
+.first-bac {
+    width: 120px;
+    height: 62px;
+    top: 2937px;
+    left: 153px;
+    gap: 0px;
+    border: solid 1px;
+    border-radius: 15px;
+    border-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.p70ml {
+    font-family: JejuMyeongjo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.315em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.smodiVs-marger{
+    display: flex;
+    gap: 60px;
+    margin-top: 100px;
 }

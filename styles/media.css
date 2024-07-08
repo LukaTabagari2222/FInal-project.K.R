@@ -18,6 +18,16 @@
     .miani{
         margin-top: 70px;
     }
+
+
+    .botli-gvino{
+        width: 100%;
+    }
+    
+    .background-image{
+        flex-direction: column;
+        margin-top: 50px;
+    }
 }
 
 
@@ -51,6 +61,20 @@
     }
      .miani{
         margin-top: 40px;
+    }
+
+    .carbent{
+        font-size: 30px;
+    }
+    .Dorema{
+        font-size: 20px;
+        width: 100%;
+        text-align: center;
+    }
+    .smodiVs-marger{
+        flex-direction: column;
+        gap: 40px;
+        margin-top: 10px;
     }
 }
 
@@ -117,6 +141,22 @@
         font-size: 23px;
 
     }
+
+    .smodiVs-marger{
+        flex-direction: column;
+        gap: 20px;
+        margin-top:0px;
+    }
+    .backgroind-strings{
+        gap: 30px;
+    }
+    .Dorema{
+        font-size: 15px;
+       
+    }
+    .carbent{
+        font-size: 23px;
+    }
 }
 
 
@@ -141,4 +181,5 @@
     .hederDiv{
         margin-left:0px;
     }
+  
 }
