@@ -3,6 +3,21 @@
         gap: 30px;
         font-size: 21px;
     }
+    .momawwesrigebeli-fristconteiners{
+        flex-direction: column;
+        gap: 50px;
+    }
+    .named-sTori:hover{
+        text-shadow: 2px 2px red;
+    }
+    .jacobs-gvino{
+        width: 100%;
+    }
+
+
+    .miani{
+        margin-top: 70px;
+    }
 }
 
 
@@ -30,6 +45,12 @@
     .burger-Bichi {
         display: block;
         color: beige;
+    }
+    .named-sTori{
+        font-size: 20px;
+    }
+     .miani{
+        margin-top: 40px;
     }
 }
 
@@ -79,6 +100,22 @@
 
     .al {
         margin-top: 10px;
+    }
+    .marjvnena-congteiner{
+        gap: 20px;
+    }
+    .named-sTori{
+        margin-top: 20px;
+    }
+    .miani{
+        margin-top: 25px;
+    }
+    .Sorbe{
+        font-size: 23px;
+    }
+    .elVino{
+        font-size: 23px;
+
     }
 }
 
