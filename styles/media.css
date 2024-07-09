@@ -28,6 +28,25 @@
         flex-direction: column;
         margin-top: 50px;
     }
+
+    .momawwesrigebeli-smalbackH{
+        flex-direction: column;
+    }
+    .vino{
+        font-size: 50px;
+    }
+    .lamejor{
+        font-size: 45px;
+    }
+    .descrube{
+        font-size: 25px;
+    }
+  .background-imageN2{
+    background-size: cover;
+  }
+  .momawwesrigebeli-smalbackH{
+    gap: 30px;
+  }
 }
 
 
@@ -76,6 +95,43 @@
         gap: 40px;
         margin-top: 10px;
     }
+    .patara-divBoxsi{
+        flex-direction: column;
+    }
+    .patara-galses{
+        margin-top: 0px;
+    }
+    .patara-divBoxsi{
+        gap: 10px;
+    }
+    .onli-Strings{
+        gap: 20px;
+    }
+    .patara-divBoxsi{
+        top: 55%;
+    }
+     .imageSolBatel{
+        width: 160px;
+     }
+     .patara-galses{
+        width: 100px;
+     }
+     .smol-boxxx{
+        flex-direction: column-reverse;
+        gap: 10px;
+        top: 55%;
+        align-items: center;
+     }
+     .smol-glasis{
+        width: 100px;
+        margin-top: 0px;
+
+     }
+     .smol-battel{
+        width: 160px;
+
+     }
+
 }
 
 
@@ -157,6 +213,45 @@
     .carbent{
         font-size: 23px;
     }
+  .vino{
+    font-size: 20px;
+    transition: 3s;
+
+  } 
+  .vino:hover{
+    color: beige;
+    text-shadow: 2px 2px rgb(138, 138, 138);
+    transition: 3s;
+  }
+
+  .lamejor{
+    font-size: 20px;
+    line-height: 34px;
+    transition: 4s;
+
+  } 
+  .lamejor:hover{
+    color: beige;
+    text-shadow: 2px 2px rgb(138, 138, 138);
+    transition: 3s;
+  }
+
+  
+
+  .descrube{
+    font-size: 20px;
+    line-height: 25px;
+    transition: 4s;
+   
+  }
+  .descrube:hover{
+    color: beige;
+    text-shadow: 2px 2px rgb(138, 138, 138);
+    transition: 3s;
+  }
+ 
+
+
 }
 
 
