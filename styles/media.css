@@ -131,6 +131,26 @@
         width: 160px;
 
      }
+     .strinagers-frist{
+        text-align: center;
+      }
+      .calatta{
+        justify-content: center;
+      }
+     .secTion-strings{
+        text-align: center;
+     }
+     .kalata{
+        justify-content: center;
+     }
+     .first-string{
+        font-size: 20px;
+        color: black;
+        text-shadow: red 2px 2px 3px;
+     }
+     .amber{
+        font-size: 20px;
+      }
 
 }
 
@@ -250,6 +270,11 @@
     transition: 3s;
   }
  
+ 
+  .Divs-merger{
+    gap: 10px;
+  }
+
 
 
 }

@@ -261,7 +261,7 @@
     font-family: JejuMyeongjo;
     font-size: 40px;
     font-weight: 400;
-    line-height: 40px;
+    line-height: 30px;
     letter-spacing: 0.315em;
     text-align: left;
     color: rgba(255, 255, 255, 1);
@@ -320,7 +320,6 @@
     height: 62px;
     top: 2937px;
     left: 153px;
-    gap: 0px;
     border: solid 1px;
     border-radius: 15px;
     border-color: beige;
@@ -367,7 +366,7 @@
 font-family: 'Bodoni Moda SC',sans-serif;
 font-size: 96px;
 font-weight: 400;
-line-height: 96px;
+line-height: 45px;
 letter-spacing: 0.19em;
 text-align: left;
 color: rgba(75, 33, 33, 1);
@@ -375,16 +374,16 @@ text-align: center;
 }
 .lamejor{
 font-family: "Baskervville SC", sans-serif;
-font-size: 64px;
+font-size: 60px;
 font-weight: 400;
-line-height: 64px;
+line-height: 40px;
 letter-spacing: 0.19em;
 color: rgba(49, 23, 23, 1);
 }
 .descrube{
-font-size: 32px;
+font-size: 30px;
 font-weight: 400;
-line-height: 32px;
+line-height: 20px;
 letter-spacing: 0.19em;
 color: rgba(49, 23, 23, 1);
 }
@@ -430,6 +429,7 @@ color: rgba(49, 23, 23, 1);
 }
 .section-firStClas{
     margin-top: 50px;
+    background-color: rebeccapurple;
 }
 
 #agmochena{
@@ -440,4 +440,185 @@ color: rgba(49, 23, 23, 1);
 }
 #ghvino{
     display: none;
+}
+.battoRn-First{
+    width: 30px;
+    height: 30px;
+    color: rgb(29, 23, 23);
+    animation-name: back;
+    font-size: 25px;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-duration: 2s; 
+    border-radius: 10px;
+}
+@keyframes back{
+    10%{
+       background-color: blueviolet;
+    }
+    20%{
+        background-color: cadetblue;
+    }
+    30%{
+        background-color: chocolate;
+    }
+    40%{
+        background-color: rgb(82, 6, 6);
+    }
+    50%{
+        background-color: burlywood;
+    }
+}
+.van{
+    color: rgb(29, 23, 23);
+    animation-name: firstbottoRn;
+    font-size: 25px;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+
+}
+
+@keyframes firstbottoRn{
+    10%{
+        color: aqua;
+    }
+    20%{
+        color: blue;
+       
+    }
+    30%{
+        color: blanchedalmond;
+    }
+    40%{
+        color: brown;
+    }
+    60%{
+        color: chartreuse;
+    }
+    70%{
+        color: crimson;
+    }
+}
+.gadamSvleli-yutebi{
+    display: flex;
+     gap: 30px;
+}
+.section-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* გვერდი N1 */
+
+.N1-mainDiv{
+    width: 1440px;
+    width:  95%;
+    margin: auto;
+    background-color: aqua;
+}
+
+.images-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 350px;
+    max-width: 100%;
+    background-color: pink;
+    transition: 3s;
+
+}
+.images-div:hover{
+    transition: 3s;
+    background-color: blueviolet;
+}
+.strinagers-frist{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(236, 229, 229);
+    gap: 20px;
+    width: 100%;
+}
+.amber{
+    font-size: 25px;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    margin-top: 30px;
+}
+.calatta{
+    display: flex;
+    color: rgb(180, 180, 177);
+    font-size: 20px;
+    text-shadow: 2px 2px rgb(171, 255, 16);
+}
+.pey{
+    font-size: 20px;
+    font-weight: 700;
+   
+
+}
+
+
+.Divs-merger{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.moitao{
+    font-size: 20px;
+    color: black;
+}
+
+.chirveuliIMg{
+    width: 100%;
+    height: 505px;
+ 
+}
+.mamnver{
+    width: 100%;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 20px;
+}
+
+
+.margerra{
+    width: 350px;
+}
+.doqi{
+    width: 100%;
+    display: block;
+}
+.secTion-strings{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: pink;
+
+}
+.first-string{
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 40px;
+}
+.kalata{
+    display: flex;
+    font-size: 20px;
+    display: flex;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-shadow: 2px 2px rgb(133, 7, 7);
+}
+.peyd{
+    font-size: 20px;
+    font-weight: 700;
+}
+.marger-boxsN2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    flex-wrap: wrap;
 }
