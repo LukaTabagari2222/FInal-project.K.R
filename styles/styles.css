@@ -164,7 +164,6 @@
 .miani {
     width: 1440px;
     width: 95%;
-    background-color: rgb(160, 160, 160);
     margin: auto;
     margin-top: 100px;
 }
@@ -429,7 +428,6 @@ color: rgba(49, 23, 23, 1);
 }
 .section-firStClas{
     margin-top: 50px;
-    background-color: rebeccapurple;
 }
 
 #agmochena{
@@ -508,7 +506,55 @@ color: rgba(49, 23, 23, 1);
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: aqua;
+    animation-name: animeishen;
+    animation-delay: 2s;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
 }
+@keyframes animeishen{
+    10%{
+        margin-left: 100px;
+        margin-right: 100px;
+        background-color: blue;
+    }
+    20%{
+        margin-left: 200px;
+        margin-right: 200px;
+        background-color: rgb(75, 75, 250);
+
+    }
+    30%{
+        margin-left: 300px;
+        margin-right: 300px;
+        background-color: red;
+    }
+  40%{
+        margin-left: 400px;
+        margin-right: 400px;
+        background-color: rgb(238, 65, 65);
+
+    }
+
+    50%{
+        margin-left: 500px;
+        margin-right: 500px;
+        background-color: green;
+    }
+    60%{
+        margin-left: 600px;
+        margin-right: 600px;
+        background-color: rgb(133, 212, 133);
+
+    }
+    70%{
+        margin-left: 700px;
+        margin-right: 700px;
+        background-color: rgb(216, 83, 187);
+
+    }
+}
+
 /* გვერდი N1 */
 
 .N1-mainDiv{
@@ -522,8 +568,7 @@ color: rgba(49, 23, 23, 1);
     display: flex;
     flex-direction: column;
     justify-content: center;
-    max-width: 350px;
-    max-width: 100%;
+    width: 350px;
     background-color: pink;
     transition: 3s;
 
@@ -565,15 +610,17 @@ color: rgba(49, 23, 23, 1);
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 20px;
 }
 .moitao{
     font-size: 20px;
     color: black;
+    letter-spacing: 0.13em;
+
 }
 
 .chirveuliIMg{
     width: 100%;
-    height: 505px;
  
 }
 .mamnver{
@@ -611,11 +658,217 @@ color: rgba(49, 23, 23, 1);
     font-size: 20px;
     text-shadow: 2px 2px rgb(133, 7, 7);
 }
+
 .peyd{
     font-size: 20px;
     font-weight: 700;
 }
 .marger-boxsN2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.images-boxN3{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.tbilVino{
+    width: 100%;
+    background-color: rgb(255, 196, 207);
+    display: block;
+    transition: 3s;
+
+}
+#xazzia{
+    color: black;
+    text-decoration: line-through;
+}
+
+.tbilVino:hover{
+    background-color: blueviolet;
+    transition: 3s;
+}
+.section-margerr{
+    width: 350px;
+    
+}
+.secTion-striGErs{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: rgb(236, 229, 229);
+}
+.tbili-GVino{
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 30px;
+    letter-spacing: 0.19em;
+
+}
+.damaaTTeba{
+    font-size: 20px;
+    color: beige;
+    text-shadow: red 2px 2px 3px;
+}
+.many{
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: 700;
+}
+.xazzi{
+    text-decoration: line-through;
+    color: black;
+}
+.gadaxzva{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tvienitu{
+    color: gold;
+}
+.colorful{
+    color: gold;
+}
+
+.meoreGverdis-main{
+    width: 1440px;
+    width:  95%;
+    margin: auto;
+    margin-top: 30px;
+}
+.left-Div{
+    width: 10%;
+    height: 200vmax;    
+    float: left;
+    background-color: rgb(163, 163, 163);
+    animation-name: leftDiv;
+    animation-iteration-count: infinite;
+    animation-duration: 12s;
+}
+@keyframes leftDiv{
+        10%{
+            background-color: blue;
+        }
+        20%{
+            background-color: rgb(61, 61, 63);
+        }
+        30%{
+            background-color: rgb(5, 5, 134);
+        }
+        40%{
+            background-color: rgb(82, 8, 151);
+        }
+        50%{
+            background-color: blueviolet;
+        }
+}
+.right-DIv{
+    width: 10%;
+    height: 200vmax;
+    float: right;
+    background-color: rgb(163, 163, 163);
+    animation-name: rightDIv;
+    animation-iteration-count: infinite;
+    animation-duration: 12s;
+}
+@keyframes rightDIv{
+    10%{
+        background-color: blue;
+    }
+    20%{
+        background-color: rgb(61, 61, 63);
+    }
+    30%{
+        background-color: rgb(5, 5, 134);
+    }
+    40%{
+        background-color: rgb(82, 8, 151);
+    }
+    50%{
+        background-color: blueviolet;
+    }
+}
+/* meore gverdiN2 */
+.mTsvaneee{
+    width: 350px;
+    display: block;
+    background-color: blanchedalmond;
+    transition: 3s;
+}
+.mTsvaneee:hover{
+    background-color: rebeccapurple;
+    transition: 3s;
+
+}
+.meOreGVedis-DIv{
+    display: flex;
+    flex-direction: column;
+    width:350px;
+   
+}
+.mTvsanea{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(87, 3, 28);
+    margin-top: 30px;
+}
+.omli-sTrrings{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.products-bay{
+    font-size: 20px;
+    color: rgb(90, 90, 89);
+    transition: 0.1s;
+
+}
+.products-bay:hover{
+    color: blueviolet;
+    transition: 0.1s;
+    text-shadow: 2px 3px chartreuse;
+}
+
+.onli-Bayy{
+    font-size: 20px;
+    font-weight: 600;
+}
+.spanBay{
+  text-decoration: line-through;
+  font-weight: 400;
+  color: black;
+  font-size: 20px;
+}
+.morea{
+    color: gold;
+    font-size: 20px;
+
+
+}
+.margerBig-Boxs{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.margin-damwevi{
+    margin-top: 50px;
+}
+.mamaoDzravebeli{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.conytroller-DIv{
     display: flex;
     justify-content: center;
     gap: 30px;
