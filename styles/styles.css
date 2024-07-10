@@ -513,6 +513,7 @@ color: rgba(49, 23, 23, 1);
     animation-duration: 2s;
     animation-iteration-count: infinite;
     margin: auto;
+    margin-top: 50px;
 }
 @keyframes animeishen{
     10%{
@@ -576,6 +577,9 @@ color: rgba(49, 23, 23, 1);
     flex-direction: column;
     background-color: rgb(236, 229, 229);
     gap: 20px;
+    width: 100%;
+}
+.boLIa{
     width: 100%;
 }
 .amber{
