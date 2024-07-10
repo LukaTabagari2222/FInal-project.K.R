@@ -556,7 +556,6 @@ color: rgba(49, 23, 23, 1);
     width: 1440px;
     width:  95%;
     margin: auto;
-    background-color: aqua;
 }
 
 .images-div{
@@ -739,7 +738,7 @@ color: rgba(49, 23, 23, 1);
 }
 .left-Div{
     width: 10%;
-    height: 200vmax;    
+    height: 180vmax;
     float: left;
     background-color: rgb(163, 163, 163);
     animation-name: leftDiv;
@@ -765,7 +764,7 @@ color: rgba(49, 23, 23, 1);
 }
 .right-DIv{
     width: 10%;
-    height: 200vmax;
+    height: 180vmax;
     float: right;
     background-color: rgb(163, 163, 163);
     animation-name: rightDIv;
@@ -869,4 +868,68 @@ color: rgba(49, 23, 23, 1);
     gap: 30px;
     margin-top: 50px;
     flex-wrap: wrap;
+}
+.margin-Section{
+    margin-top: 43px;
+}
+/* MeN3 gverdi */
+.mesameGverdis-mainDIV{
+    width: 1440px;
+    width:  100%;
+    margin: auto;
+    margin-top: 30px;
+}
+.marjvena-Divi{
+    width:25%;
+    height: 179vmax;
+    float: left;
+    background-color: black;
+}
+.secTionS-ReseT{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.reSetN2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.sertiFaiv{
+    text-decoration: line-through;
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+
+}
+.tsinanda{
+    text-align: center;
+}
+.elevN{
+    font-size: 25px;
+    color: gold;
+}
+.Conteiner-marger{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+.bolo-secTion{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    margin-top: 50px;  
+}
+.new-conteiiner{
+    margin-top: 50px;
 }
