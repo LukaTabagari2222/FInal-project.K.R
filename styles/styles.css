@@ -540,12 +540,12 @@ color: rgba(49, 23, 23, 1);
         background-color: green;
     }
     60%{
-        width: 80%;
+        width: 70%;
         background-color: rgb(133, 212, 133);
 
     }
     70%{
-        width: 100%;        
+        width: 75%;        
         background-color: rgb(216, 83, 187);
 
     }
@@ -766,6 +766,8 @@ color: rgba(49, 23, 23, 1);
             background-color: blueviolet;
         }
 }
+
+
 .right-DIv{
     width: 10%;
     height: 180vmax;
@@ -874,6 +876,7 @@ color: rgba(49, 23, 23, 1);
     flex-wrap: wrap;
 }
 .margin-Section{
+    width: 50%;
     margin-top: 60px;
 }
 /* MeN3 gverdi */
@@ -935,5 +938,9 @@ color: rgba(49, 23, 23, 1);
     margin-top: 50px;  
 }
 .new-conteiiner{
+    width: 40%;
     margin-top: 50px;
+}
+.ucklaso{
+    width: 100%;
 }

@@ -1,3 +1,17 @@
+@media (max-width:1240px){
+  .right-DIv  {
+      display: none;
+      
+  }
+  
+  
+  .left-Div{
+      display: none;
+  }
+  .marjvena-Divi{
+    height: 430vmax;
+  }
+}
 @media only screen and (max-width: 1024px) {
     .first-UlNamen {
         gap: 30px;
@@ -49,13 +63,15 @@
   }
 
   .marjvena-Divi{
-    height: 900vmax;
+    height: 920vmax;
   }
   .right-DIv{
-    height: 935vmax;
+    display: block;
+    height: 910vmax;
   }
   .left-Div{
-    height: 935vmax;
+    height: 910vmax;
+    display: block;
 
   }
   .omli-sTrrings{
@@ -338,6 +354,8 @@
     gap: 10px;
   }
 
+  
+
  
 
 
@@ -364,6 +382,16 @@
     }
     .hederDiv{
         margin-left:0px;
+    }
+    .marjvena-Divi{
+      display: none;
+    }
+    .right-DIv{
+      display: none;
+    }
+    .left-Div{
+      display: none;
+  
     }
   
 }
