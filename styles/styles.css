@@ -256,7 +256,7 @@
 }
 
 .carbent {
-   
+
     font-family: JejuMyeongjo;
     font-size: 40px;
     font-weight: 400;
@@ -265,7 +265,7 @@
     text-align: left;
     color: rgba(255, 255, 255, 1);
     text-align: center;
-  
+
 }
 
 .Dorema {
@@ -337,57 +337,64 @@
     text-align: left;
     color: rgba(255, 255, 255, 1);
 }
-.smodiVs-marger{
+
+.smodiVs-marger {
     display: flex;
     gap: 60px;
     margin-top: 100px;
 }
-.momawwesrigebeli-smalbackH{
+
+.momawwesrigebeli-smalbackH {
     display: flex;
     align-items: center;
 }
-.background-imageN2{
+
+.background-imageN2 {
     background-image: url('../images/naxevarbotlaimG.svg');
-     background-repeat: no-repeat;
-      width: 100%;
-     height: 1000px;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 1000px;
 
 }
-.backgroun-samlN3{
+
+.backgroun-samlN3 {
     background-image: url('../images/smalIMageN2.svg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     height: 1000px;
-    
-}
-.vino{
-font-family: 'Bodoni Moda SC',sans-serif;
-font-size: 96px;
-font-weight: 400;
-line-height: 45px;
-letter-spacing: 0.19em;
-text-align: left;
-color: rgba(75, 33, 33, 1);
-text-align: center;
-}
-.lamejor{
-font-family: "Baskervville SC", sans-serif;
-font-size: 60px;
-font-weight: 400;
-line-height: 40px;
-letter-spacing: 0.19em;
-color: rgba(49, 23, 23, 1);
-}
-.descrube{
-font-size: 30px;
-font-weight: 400;
-line-height: 20px;
-letter-spacing: 0.19em;
-color: rgba(49, 23, 23, 1);
+
 }
 
-.onli-Strings{
+.vino {
+    font-family: 'Bodoni Moda SC', sans-serif;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 45px;
+    letter-spacing: 0.19em;
+    text-align: left;
+    color: rgba(75, 33, 33, 1);
+    text-align: center;
+}
+
+.lamejor {
+    font-family: "Baskervville SC", sans-serif;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0.19em;
+    color: rgba(49, 23, 23, 1);
+}
+
+.descrube {
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.19em;
+    color: rgba(49, 23, 23, 1);
+}
+
+.onli-Strings {
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -395,52 +402,62 @@ color: rgba(49, 23, 23, 1);
     position: relative;
     bottom: 110ch;
 }
-.smol-glasis{
+
+.smol-glasis {
     width: 162px;
-     margin-top: 200px;
+    margin-top: 200px;
 }
-.smol-boxxx{
+
+.smol-boxxx {
     display: flex;
     gap: 164px;
     position: relative;
     top: 57%;
 }
-.smol-battel{
+
+.smol-battel {
     width: 226px;
 }
-.imageSolBatel{
+
+.imageSolBatel {
     width: 226px;
 
 }
-.patara-galses{
-    max-width:  162px;
+
+.patara-galses {
+    max-width: 162px;
     max-width: 100%;
     margin-top: 200px;
 
 
 }
-.patara-divBoxsi{
+
+.patara-divBoxsi {
     display: flex;
-      gap: 50px;
+    gap: 50px;
     position: relative;
     justify-content: center;
     align-items: center;
     top: 57%;
 }
-.section-firStClas{
+
+.section-firStClas {
     margin-top: 50px;
 }
 
-#agmochena{
+#agmochena {
     display: none;
 }
-#sauketeso{
+
+#sauketeso {
     display: none;
 }
-#ghvino{
+
+#ghvino {
     display: none;
 }
-.battoRn-First{
+
+.battoRn-First {
     width: 30px;
     height: 30px;
     color: rgb(29, 23, 23);
@@ -448,27 +465,33 @@ color: rgba(49, 23, 23, 1);
     font-size: 25px;
     animation-delay: 2s;
     animation-iteration-count: infinite;
-    animation-duration: 2s; 
+    animation-duration: 2s;
     border-radius: 10px;
 }
-@keyframes back{
-    10%{
-       background-color: blueviolet;
+
+@keyframes back {
+    10% {
+        background-color: blueviolet;
     }
-    20%{
+
+    20% {
         background-color: cadetblue;
     }
-    30%{
+
+    30% {
         background-color: chocolate;
     }
-    40%{
+
+    40% {
         background-color: rgb(82, 6, 6);
     }
-    50%{
+
+    50% {
         background-color: burlywood;
     }
 }
-.van{
+
+.van {
     color: rgb(29, 23, 23);
     animation-name: firstbottoRn;
     font-size: 25px;
@@ -478,32 +501,39 @@ color: rgba(49, 23, 23, 1);
 
 }
 
-@keyframes firstbottoRn{
-    10%{
+@keyframes firstbottoRn {
+    10% {
         color: aqua;
     }
-    20%{
+
+    20% {
         color: blue;
-       
+
     }
-    30%{
+
+    30% {
         color: blanchedalmond;
     }
-    40%{
+
+    40% {
         color: brown;
     }
-    60%{
+
+    60% {
         color: chartreuse;
     }
-    70%{
+
+    70% {
         color: crimson;
     }
 }
-.gadamSvleli-yutebi{
+
+.gadamSvleli-yutebi {
     display: flex;
-     gap: 30px;
+    gap: 30px;
 }
-.section-center{
+
+.section-center {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -516,37 +546,43 @@ color: rgba(49, 23, 23, 1);
     margin: auto;
     margin-top: 50px;
 }
-@keyframes animeishen{
-    10%{
+
+@keyframes animeishen {
+    10% {
         width: 10%;
         background-color: blue;
     }
-    20%{
+
+    20% {
         width: 20%;
         background-color: rgb(75, 75, 250);
 
     }
-    30%{
+
+    30% {
         width: 40%;
         background-color: red;
     }
-  40%{
+
+    40% {
         width: 50%;
         background-color: rgb(238, 65, 65);
 
     }
 
-    50%{
+    50% {
         width: 60%;
         background-color: green;
     }
-    60%{
+
+    60% {
         width: 70%;
         background-color: rgb(133, 212, 133);
 
     }
-    70%{
-        width: 75%;        
+
+    70% {
+        width: 75%;
         background-color: rgb(216, 83, 187);
 
     }
@@ -554,13 +590,13 @@ color: rgba(49, 23, 23, 1);
 
 /* გვერდი N1 */
 
-.N1-mainDiv{
+.N1-mainDiv {
     width: 1440px;
-    width:  95%;
+    width: 95%;
     margin: auto;
 }
 
-.images-div{
+.images-div {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -569,41 +605,47 @@ color: rgba(49, 23, 23, 1);
     transition: 3s;
 
 }
-.images-div:hover{
+
+.images-div:hover {
     transition: 3s;
     background-color: blueviolet;
 }
-.strinagers-frist{
+
+.strinagers-frist {
     display: flex;
     flex-direction: column;
     background-color: rgb(236, 229, 229);
     gap: 20px;
     width: 100%;
 }
-.boLIa{
+
+.boLIa {
     width: 100%;
 }
-.amber{
+
+.amber {
     font-size: 25px;
     font-weight: 700;
     letter-spacing: 0.13em;
     margin-top: 30px;
 }
-.calatta{
+
+.calatta {
     display: flex;
     color: rgb(180, 180, 177);
     font-size: 20px;
     text-shadow: 2px 2px rgb(171, 255, 16);
 }
-.pey{
+
+.pey {
     font-size: 20px;
     font-weight: 700;
-   
+
 
 }
 
 
-.Divs-merger{
+.Divs-merger {
     display: flex;
     gap: 30px;
     align-items: center;
@@ -611,18 +653,20 @@ color: rgba(49, 23, 23, 1);
     justify-content: center;
     margin-top: 20px;
 }
-.moitao{
+
+.moitao {
     font-size: 20px;
     color: black;
     letter-spacing: 0.13em;
 
 }
 
-.chirveuliIMg{
+.chirveuliIMg {
     width: 100%;
- 
+
 }
-.mamnver{
+
+.mamnver {
     width: 100%;
     font-size: 15px;
     font-weight: 900;
@@ -630,26 +674,30 @@ color: rgba(49, 23, 23, 1);
 }
 
 
-.margerra{
+.margerra {
     width: 350px;
 }
-.doqi{
+
+.doqi {
     width: 100%;
     display: block;
 }
-.secTion-strings{
+
+.secTion-strings {
     display: flex;
     flex-direction: column;
     gap: 20px;
     background-color: pink;
 
 }
-.first-string{
+
+.first-string {
     font-size: 25px;
     font-weight: 900;
     line-height: 40px;
 }
-.kalata{
+
+.kalata {
     display: flex;
     font-size: 20px;
     display: flex;
@@ -658,90 +706,104 @@ color: rgba(49, 23, 23, 1);
     text-shadow: 2px 2px rgb(133, 7, 7);
 }
 
-.peyd{
+.peyd {
     font-size: 20px;
     font-weight: 700;
 }
-.marger-boxsN2{
+
+.marger-boxsN2 {
     display: flex;
     justify-content: center;
     gap: 30px;
     margin-top: 50px;
     flex-wrap: wrap;
 }
-.images-boxN3{
+
+.images-boxN3 {
     display: flex;
     justify-content: center;
     gap: 30px;
     margin-top: 50px;
     flex-wrap: wrap;
 }
-.tbilVino{
+
+.tbilVino {
     width: 100%;
     background-color: rgb(255, 196, 207);
     display: block;
     transition: 3s;
 
 }
-#xazzia{
+
+#xazzia {
     color: black;
     text-decoration: line-through;
 }
 
-.tbilVino:hover{
+.tbilVino:hover {
     background-color: blueviolet;
     transition: 3s;
 }
-.section-margerr{
+
+.section-margerr {
     width: 350px;
-    
+
 }
-.secTion-striGErs{
+
+.secTion-striGErs {
     display: flex;
     flex-direction: column;
     gap: 20px;
     background-color: rgb(236, 229, 229);
 }
-.tbili-GVino{
+
+.tbili-GVino {
     font-size: 25px;
     font-weight: 700;
     margin-top: 30px;
     letter-spacing: 0.19em;
 
 }
-.damaaTTeba{
+
+.damaaTTeba {
     font-size: 20px;
     color: beige;
     text-shadow: red 2px 2px 3px;
 }
-.many{
+
+.many {
     font-size: 20px;
     line-height: 10px;
     font-weight: 700;
 }
-.xazzi{
+
+.xazzi {
     text-decoration: line-through;
     color: black;
 }
-.gadaxzva{
+
+.gadaxzva {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-.tvienitu{
-    color: gold;
-}
-.colorful{
+
+.tvienitu {
     color: gold;
 }
 
-.meoreGverdis-main{
+.colorful {
+    color: gold;
+}
+
+.meoreGverdis-main {
     width: 1440px;
-    width:  95%;
+    width: 95%;
     margin: auto;
     margin-top: 30px;
 }
-.left-Div{
+
+.left-Div {
     width: 10%;
     height: 180vmax;
     float: left;
@@ -750,26 +812,31 @@ color: rgba(49, 23, 23, 1);
     animation-iteration-count: infinite;
     animation-duration: 12s;
 }
-@keyframes leftDiv{
-        10%{
-            background-color: blue;
-        }
-        20%{
-            background-color: rgb(61, 61, 63);
-        }
-        30%{
-            background-color: rgb(5, 5, 134);
-        }
-        40%{
-            background-color: rgb(82, 8, 151);
-        }
-        50%{
-            background-color: blueviolet;
-        }
+
+@keyframes leftDiv {
+    10% {
+        background-color: blue;
+    }
+
+    20% {
+        background-color: rgb(61, 61, 63);
+    }
+
+    30% {
+        background-color: rgb(5, 5, 134);
+    }
+
+    40% {
+        background-color: rgb(82, 8, 151);
+    }
+
+    50% {
+        background-color: blueviolet;
+    }
 }
 
 
-.right-DIv{
+.right-DIv {
     width: 10%;
     height: 180vmax;
     float: right;
@@ -778,129 +845,151 @@ color: rgba(49, 23, 23, 1);
     animation-iteration-count: infinite;
     animation-duration: 12s;
 }
-@keyframes rightDIv{
-    10%{
+
+@keyframes rightDIv {
+    10% {
         background-color: blue;
     }
-    20%{
+
+    20% {
         background-color: rgb(61, 61, 63);
     }
-    30%{
+
+    30% {
         background-color: rgb(5, 5, 134);
     }
-    40%{
+
+    40% {
         background-color: rgb(82, 8, 151);
     }
-    50%{
+
+    50% {
         background-color: blueviolet;
     }
 }
+
 /* meore gverdiN2 */
-.mTsvaneee{
+.mTsvaneee {
     width: 350px;
     display: block;
     background-color: blanchedalmond;
     transition: 3s;
 }
-.mTsvaneee:hover{
+
+.mTsvaneee:hover {
     background-color: rebeccapurple;
     transition: 3s;
 
 }
-.meOreGVedis-DIv{
+
+.meOreGVedis-DIv {
     display: flex;
     flex-direction: column;
-    width:350px;
-   
+    width: 350px;
+
 }
-.mTvsanea{
+
+.mTvsanea {
     font-size: 25px;
     font-weight: 700;
     color: rgb(87, 3, 28);
     margin-top: 30px;
 }
-.omli-sTrrings{
+
+.omli-sTrrings {
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
-.products-bay{
+
+.products-bay {
     font-size: 20px;
     color: rgb(90, 90, 89);
     transition: 0.1s;
 
 }
-.products-bay:hover{
+
+.products-bay:hover {
     color: blueviolet;
     transition: 0.1s;
     text-shadow: 2px 3px chartreuse;
 }
 
-.onli-Bayy{
+.onli-Bayy {
     font-size: 20px;
     font-weight: 600;
 }
-.spanBay{
-  text-decoration: line-through;
-  font-weight: 400;
-  color: black;
-  font-size: 20px;
+
+.spanBay {
+    text-decoration: line-through;
+    font-weight: 400;
+    color: black;
+    font-size: 20px;
 }
-.morea{
+
+.morea {
     color: gold;
     font-size: 20px;
 
 
 }
-.margerBig-Boxs{
+
+.margerBig-Boxs {
     display: flex;
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
 }
 
-.margin-damwevi{
+.margin-damwevi {
     margin-top: 50px;
 }
-.mamaoDzravebeli{
+
+.mamaoDzravebeli {
     display: flex;
     justify-content: center;
     gap: 30px;
     margin-top: 50px;
     flex-wrap: wrap;
 }
-.conytroller-DIv{
+
+.conytroller-DIv {
     display: flex;
     justify-content: center;
     gap: 30px;
     margin-top: 50px;
     flex-wrap: wrap;
 }
-.margin-Section{
+
+.margin-Section {
     width: 50%;
     margin-top: 60px;
 }
+
 /* MeN3 gverdi */
-.mesameGverdis-mainDIV{
+.mesameGverdis-mainDIV {
     width: 1440px;
-    width:  100%;
+    width: 100%;
     margin: auto;
     margin-top: 30px;
 }
-.marjvena-Divi{
-    width:25%;
+
+.marjvena-Divi {
+    width: 25%;
     height: 179vmax;
     float: left;
     background-color: black;
 }
-.secTionS-ReseT{
+
+.secTionS-ReseT {
     display: flex;
     justify-content: center;
     gap: 30px;
     margin-top: 50px;
     flex-wrap: wrap;
 }
-.reSetN2{
+
+.reSetN2 {
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -908,21 +997,25 @@ color: rgba(49, 23, 23, 1);
     flex-wrap: wrap;
     margin-top: 50px;
 }
-.sertiFaiv{
+
+.sertiFaiv {
     text-decoration: line-through;
     color: black;
     font-weight: 700;
     font-size: 20px;
 
 }
-.tsinanda{
+
+.tsinanda {
     text-align: center;
 }
-.elevN{
+
+.elevN {
     font-size: 25px;
     color: gold;
 }
-.Conteiner-marger{
+
+.Conteiner-marger {
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -930,23 +1023,27 @@ color: rgba(49, 23, 23, 1);
     flex-wrap: wrap;
     margin-top: 50px;
 }
-.bolo-secTion{
+
+.bolo-secTion {
     display: flex;
     justify-content: center;
     gap: 30px;
     margin-top: 50px;
     flex-wrap: wrap;
-    margin-top: 50px;  
+    margin-top: 50px;
 }
-.new-conteiiner{
+
+.new-conteiiner {
     width: 40%;
     margin-top: 50px;
 }
-.ucklaso{
+
+.ucklaso {
     width: 100%;
 }
+
 /* footer */
-.footter{
+.footter {
     background-color: black;
     margin-top: 40px;
     padding: 50px;
@@ -955,18 +1052,21 @@ color: rgba(49, 23, 23, 1);
     animation-duration: 2s;
 
 }
-@keyframes fot{
-    10%{
+
+@keyframes fot {
+    10% {
         background-color: #34495e;
     }
-    20%{
+
+    20% {
         background-color: #0053a7;
     }
 }
-.footer-Div{
+
+.footer-Div {
     display: flex;
-    max-width:80%;
-    background-color:#34495e;
+    max-width: 80%;
+    background-color: #34495e;
     margin: auto;
     justify-content: space-between;
     animation-name: footerdIv;
@@ -974,92 +1074,111 @@ color: rgba(49, 23, 23, 1);
     animation-delay: 1s;
     animation-iteration-count: infinite;
 }
-@keyframes footerdIv{
-    10%{
+
+@keyframes footerdIv {
+    10% {
         background-color: #0053a7;
     }
-    20%{
-        background-color:#CCCCCC;
+
+    20% {
+        background-color: #CCCCCC;
     }
-    30%{
+
+    30% {
         background-color: #FFA500;
     }
 }
 
 
-.font-style{
+.font-style {
     font-size: 40px;
 }
-.ffoter-StrinGs{
+
+.ffoter-StrinGs {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
-.ffoter-StrinGs a:nth-child(2n){
-    color:beige;
+.ffoter-StrinGs a:nth-child(2n) {
+    color: beige;
     text-shadow: #b90e47 2px 2px;
 }
-.ffoter-StrinGs a:nth-child(2n)::first-letter{
+
+.ffoter-StrinGs a:nth-child(2n)::first-letter {
     color: #CCCCCC;
-    
+
 }
-.strongers{
+
+.strongers {
     margin-top: 50px;
 }
-.onli-footerStrings{
+
+.onli-footerStrings {
     color: #0053a7;
     width: 70px;
-    text-shadow: beige 2px 2px ;
+    text-shadow: beige 2px 2px;
 }
-.onli-footerStrings::first-letter{
+
+.onli-footerStrings::first-letter {
     color: red;
     font-size: xx-large;
     font-size: 45px;
 }
-.fa-youtube{
+
+.fa-youtube {
     font-size: 30px;
     color: red;
 }
-.fa-youtube:hover{
+
+.fa-youtube:hover {
     margin-bottom: 10px;
 
 }
-.fa-facebook{
+
+.fa-facebook {
     font-size: 30px;
     color: rgb(31, 104, 238);
 }
-.fa-facebook:hover{
+
+.fa-facebook:hover {
     margin-bottom: 10px;
-  
+
 }
-.fa-instagram{
+
+.fa-instagram {
     font-size: 30px;
     color: rgb(255, 32, 170);
 }
-.fa-instagram:hover{
+
+.fa-instagram:hover {
     margin-bottom: 10px;
 }
-.fa-whatsapp{
+
+.fa-whatsapp {
     font-size: 30px;
     color: rgb(3, 133, 3);
 
 }
-.fa-whatsapp:hover{
+
+.fa-whatsapp:hover {
     margin-bottom: 10px;
 }
-.footer-linksDIv{
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   gap: 10px; 
+
+.footer-linksDIv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
-.venaxo{
+
+.venaxo {
     display: inline-block;
     align-items: center;
-   
+
 }
-.tvezsero{
+
+.tvezsero {
     font-size: 20px;
     line-height: 20px;
     font-style: italic;
@@ -1067,13 +1186,15 @@ color: rgba(49, 23, 23, 1);
     transition: 2s;
 
 }
-.tvezsero:hover{
+
+.tvezsero:hover {
     text-shadow: 2px 3px rgb(240, 2, 133);
     transition: 2s;
 }
 
 /* emateba mxolod footershi georgias */
-.dmateba-washla{
+.dmateba-washla {
     display: none;
 }
+
 /* aqamde */
