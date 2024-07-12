@@ -273,6 +273,28 @@
   font-size: 35px;
 }
 
+.inpuTSectionN1 input{
+  text-align: center;
+}
+.inpuTdivSerod input{
+  text-align: center;
+}
+.mesiges input{
+  text-align: center;
+}
+.bigDuvCenter {
+  border: none;
+  animation: none;
+}
+.inputsecond input{
+text-align: center;
+}
+.bigDuvCenter {
+  width: 100%;
+}
+.bodlo{
+  justify-content: center;
+}
 }
 
 
