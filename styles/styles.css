@@ -1082,8 +1082,12 @@ color: rgba(49, 23, 23, 1);
 .blog-mainDiv{
     width: 80%;
     margin: auto;
-    background-color: #CCCCCC;
+    transition: 3s;
     
+}
+.blog-mainDiv:hover{
+    background-color: #34495e;
+    transition: 3s;
 }
 .first-videos{
     display: flex;

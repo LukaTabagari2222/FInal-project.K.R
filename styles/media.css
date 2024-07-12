@@ -266,6 +266,13 @@
 .footter{
   padding: 20px;
 }
+.venaxis-movla{
+  border-radius: 3%;
+  width: 100%;
+  padding: 20px;
+  font-size: 35px;
+}
+
 }
 
 
@@ -396,6 +403,12 @@
     padding: 0;
   }
   
+  .venaxis-movla{
+    border-radius: 5%;
+    width: 100%;
+    letter-spacing: 1px;
+    font-size: 30px;
+  }
 
  
 
