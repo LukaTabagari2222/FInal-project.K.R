@@ -1,98 +1,153 @@
-@media (max-width:1240px){
-  .right-DIv  {
-      display: none;
-      
+@media (max-width:1240px) {
+  .right-DIv {
+    display: none;
+
   }
-  
-  
-  .left-Div{
-      display: none;
+
+
+  .left-Div {
+    display: none;
   }
-  .marjvena-Divi{
+
+  .marjvena-Divi {
     height: 430vmax;
   }
 }
+
 @media only screen and (max-width: 1024px) {
-    .first-UlNamen {
-        gap: 30px;
-        font-size: 21px;
-    }
-    .momawwesrigebeli-fristconteiners{
-        flex-direction: column;
-        gap: 50px;
-    }
-    .named-sTori:hover{
-        text-shadow: 2px 2px red;
-    }
-    .jacobs-gvino{
-        width: 100%;
-    }
+  .first-UlNamen {
+    gap: 30px;
+    font-size: 21px;
+  }
+
+  .momawwesrigebeli-fristconteiners {
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  .named-sTori:hover {
+    text-shadow: 2px 2px red;
+  }
+
+  .jacobs-gvino {
+    width: 100%;
+  }
 
 
-    .miani{
-        margin-top: 70px;
-    }
+  .miani {
+    margin-top: 70px;
+  }
 
 
-    .botli-gvino{
-        width: 100%;
-    }
-    
-    .background-image{
-        flex-direction: column;
-        margin-top: 50px;
-    }
+  .botli-gvino {
+    width: 100%;
+  }
 
-    .momawwesrigebeli-smalbackH{
-        flex-direction: column;
-    }
-    .vino{
-        font-size: 50px;
-    }
-    .lamejor{
-        font-size: 45px;
-    }
-    .descrube{
-        font-size: 25px;
-    }
-  .background-imageN2{
+  .background-image {
+    flex-direction: column;
+    margin-top: 50px;
+  }
+
+  .momawwesrigebeli-smalbackH {
+    flex-direction: column;
+  }
+
+  .vino {
+    font-size: 50px;
+  }
+
+  .lamejor {
+    font-size: 45px;
+  }
+
+  .descrube {
+    font-size: 25px;
+  }
+
+  .background-imageN2 {
     background-size: cover;
   }
-  .momawwesrigebeli-smalbackH{
+
+  .momawwesrigebeli-smalbackH {
     gap: 30px;
   }
 
-  .marjvena-Divi{
+  .marjvena-Divi {
     height: 925vmax;
   }
-  .right-DIv{
+
+  .right-DIv {
     display: block;
     height: 915vmax;
   }
-  .left-Div{
+
+  .left-Div {
     height: 915vmax;
     display: block;
 
   }
-  .omli-sTrrings{
+
+  .omli-sTrrings {
     text-align: center;
     color: blueviolet;
   }
-  .mTvsanea{
+
+  .mTvsanea {
     color: blueviolet;
   }
 
-  .footer-linksDIv{
-     flex-wrap: wrap;
+  .footer-linksDIv {
+    flex-wrap: wrap;
     font-size: 20px;
   }
-  .dishes-marger{
+
+  .dishes-marger {
     flex-wrap: wrap;
 
   }
-  .xbos-SHemwvari{
-    font-size: 20px;
-  }
+.img-Strings{
+  flex-direction: column;
+}
+.image-vazIS{
+  width: 100%;
+}
+.vazi-mundam{
+  width: 100%;
+}
+.img-Strings{
+  gap: 30px;
+}
+.margererr{
+  flex-direction: column;
+  gap: 30px;
+}
+.vaziSp-mtevaaNI{
+  width: 100%;
+}
+.right-Divi{
+  height: 400vmax;
+}
+.levt-DIv{
+  height: 400vmax;
+
+}
+.imagewIteliVazi{
+  width: 100%;
+}
+.sahtoMOkhrani{
+  width: 100%;
+}
+.daunT{
+  flex-direction: column;
+  gap: 30px;
+}
+.dzvelia{
+  width: 100%;
+}
+.hectar-Top{
+  flex-direction:column;
+  gap: 30px;
+}
 }
 
 
@@ -103,205 +158,266 @@
 
 
 @media only screen and (max-width: 768px) {
-    .hederDiv{
-        top: 30px;
-        margin-left: 0px;
-    }
-    .navMen {
-        gap: 20px;
-        font-size: 21px;
-        display: none;
-    }
-
-    .vazisLOgo-text {
-        gap: 200px;
-    }
-
-    .burger-Bichi {
-        display: block;
-        color: beige;
-    }
-    .named-sTori{
-        font-size: 20px;
-    }
-     .miani{
-        margin-top: 40px;
-    }
-
-    .carbent{
-        font-size: 30px;
-    }
-    .Dorema{
-        font-size: 20px;
-        width: 100%;
-        text-align: center;
-    }
-    .smodiVs-marger{
-        flex-direction: column;
-        gap: 20px;
-        margin-top: 10px;
-    }
-    .patara-divBoxsi{
-        flex-direction: column;
-    }
-    .patara-galses{
-        margin-top: 0px;
-    }
-    .patara-divBoxsi{
-        gap: 10px;
-    }
-    .onli-Strings{
-        gap: 20px;
-    }
-    .patara-divBoxsi{
-        top: 55%;
-    }
-     .imageSolBatel{
-        width: 160px;
-     }
-     .patara-galses{
-        width: 100px;
-     }
-     .smol-boxxx{
-        flex-direction: column-reverse;
-        gap: 10px;
-        top: 55%;
-        align-items: center;
-     }
-     .smol-glasis{
-        width: 100px;
-        margin-top: 0px;
-
-     }
-     .smol-battel{
-        width: 160px;
-
-     }
-     .strinagers-frist{
-        text-align: center;
-      }
-      .calatta{
-        justify-content: center;
-      }
-     .secTion-strings{
-        text-align: center;
-     }
-     .kalata{
-        justify-content: center;
-     }
-     .first-string{
-        font-size: 20px;
-        color: black;
-        text-shadow: red 2px 2px 3px;
-     }
-     .amber{
-        font-size: 20px;
-      }
-      .background-imageN2{
-        display: none;
-      }
-      .first-bac{
-        width: 300px;
-        height: 80px;
-      }
-      .secTion-striGErs{
-        text-align: center;
-      }
-      .tbili-GVino{
-        font-size: 20px;
-        transition: 3s;
-      }
-      .damaaTTeba:hover{
-        color: black;
-        text-shadow: rgb(4, 241, 63) 2px 2px 3px;
-        transition: 3s;
-
-      }
-
-      .omli-sTrrings{
-        text-align: center;
-      }
-      .mTvsanea{
-        font-size: 18px;
-      }
-      .products-bay{
-        font-size: 15px;
-      }
-      .mTsvaneee{
-        width: 100%;
-      }
-     
-
-      .omli-sTrrings{
-        text-align: center;
-        color: rgb(90, 90, 90);
-      }
-      .mTvsanea{
-        color: rgb(90, 90, 90);
-      }
-
-      .footer-linksDIv{
-        font-size: 14px;
-      }
-      .onli-footerStrings::first-letter{
-        color: red;
-        font-size: xx-small;
-        font-size: 25px;
-    }
-    .onli-footerStrings{
-      font-size: 15px;
-    }
-    .strongers{
-      margin-top: 0px;
-    }
-    .dmateba-washla{
-      display: block;
+  .hederDiv {
+    top: 30px;
+    margin-left: 0px;
   }
-  .georgiae{
+
+  .navMen {
+    gap: 20px;
+    font-size: 21px;
     display: none;
   }
-  .font-style{
-    font-size: 25px;
-}
-.venaxo{
-  font-size: 20px;
-  width: 100%;
-}
-.footer-Div{
-  max-width: 90%;
-}
-.footter{
-  padding: 20px;
-}
-.venaxis-movla{
-  border-radius: 3%;
-  width: 100%;
-  padding: 20px;
-  font-size: 35px;
-}
 
-.inpuTSectionN1 input{
-  text-align: center;
-}
-.inpuTdivSerod input{
-  text-align: center;
-}
-.mesiges input{
-  text-align: center;
-}
-.bigDuvCenter {
-  border: none;
-  animation: none;
-}
-.inputsecond input{
-text-align: center;
-}
-.bigDuvCenter {
-  width: 100%;
-}
-.bodlo{
-  justify-content: center;
-}
+  .vazisLOgo-text {
+    gap: 200px;
+  }
+
+  .burger-Bichi {
+    display: block;
+    color: beige;
+  }
+
+  .named-sTori {
+    font-size: 20px;
+  }
+
+  .miani {
+    margin-top: 40px;
+  }
+
+  .carbent {
+    font-size: 30px;
+  }
+
+  .Dorema {
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .smodiVs-marger {
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 10px;
+  }
+
+  .patara-divBoxsi {
+    flex-direction: column;
+  }
+
+  .patara-galses {
+    margin-top: 0px;
+  }
+
+  .patara-divBoxsi {
+    gap: 10px;
+  }
+
+  .onli-Strings {
+    gap: 20px;
+  }
+
+  .patara-divBoxsi {
+    top: 55%;
+  }
+
+  .imageSolBatel {
+    width: 160px;
+  }
+
+  .patara-galses {
+    width: 100px;
+  }
+
+  .smol-boxxx {
+    flex-direction: column-reverse;
+    gap: 10px;
+    top: 55%;
+    align-items: center;
+  }
+
+  .smol-glasis {
+    width: 100px;
+    margin-top: 0px;
+
+  }
+
+  .smol-battel {
+    width: 160px;
+
+  }
+
+  .strinagers-frist {
+    text-align: center;
+  }
+
+  .calatta {
+    justify-content: center;
+  }
+
+  .secTion-strings {
+    text-align: center;
+  }
+
+  .kalata {
+    justify-content: center;
+  }
+
+  .first-string {
+    font-size: 20px;
+    color: black;
+    text-shadow: red 2px 2px 3px;
+  }
+
+  .amber {
+    font-size: 20px;
+  }
+
+  .background-imageN2 {
+    display: none;
+  }
+
+  .first-bac {
+    width: 300px;
+    height: 80px;
+  }
+
+  .secTion-striGErs {
+    text-align: center;
+  }
+
+  .tbili-GVino {
+    font-size: 20px;
+    transition: 3s;
+  }
+
+  .damaaTTeba:hover {
+    color: black;
+    text-shadow: rgb(4, 241, 63) 2px 2px 3px;
+    transition: 3s;
+
+  }
+
+  .omli-sTrrings {
+    text-align: center;
+  }
+
+  .mTvsanea {
+    font-size: 18px;
+  }
+
+  .products-bay {
+    font-size: 15px;
+  }
+
+  .mTsvaneee {
+    width: 100%;
+  }
+
+
+  .omli-sTrrings {
+    text-align: center;
+    color: rgb(90, 90, 90);
+  }
+
+  .mTvsanea {
+    color: rgb(90, 90, 90);
+  }
+
+  .footer-linksDIv {
+    font-size: 14px;
+  }
+
+  .onli-footerStrings::first-letter {
+    color: red;
+    font-size: xx-small;
+    font-size: 25px;
+  }
+
+  .onli-footerStrings {
+    font-size: 15px;
+  }
+
+  .strongers {
+    margin-top: 0px;
+  }
+
+  .dmateba-washla {
+    display: block;
+  }
+
+  .georgiae {
+    display: none;
+  }
+
+  .font-style {
+    font-size: 25px;
+  }
+
+  .venaxo {
+    font-size: 20px;
+    width: 100%;
+  }
+
+  .footer-Div {
+    max-width: 90%;
+  }
+
+  .footter {
+    padding: 20px;
+  }
+
+  .venaxis-movla {
+    border-radius: 3%;
+    width: 100%;
+    padding: 20px;
+    font-size: 35px;
+  }
+
+  .inpuTSectionN1 input {
+    text-align: center;
+  }
+
+  .inpuTdivSerod input {
+    text-align: center;
+  }
+
+  .mesiges input {
+    text-align: center;
+  }
+
+  .bigDuvCenter {
+    border: none;
+    animation: none;
+  }
+
+  .inputsecond input {
+    text-align: center;
+  }
+
+  .bigDuvCenter {
+    width: 100%;
+  }
+
+  .bodlo {
+    justify-content: center;
+  }
+  .xbos-SHemwvari{
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    line-height: 20px;
+  }
+ 
+  .right-Divi{
+    height: 600vmax;
+  }
+  .levt-DIv{
+    height: 600vmax;
+  
+  }
 }
 
 
@@ -311,136 +427,159 @@ text-align: center;
 
 
 @media only screen and (max-width:480px) {
-    .navMen {
-        display: none;
-        margin-top: 20px;
-    }
+  .navMen {
+    display: none;
+    margin-top: 20px;
+  }
 
-    .burger-Bichi {
-        display: block;
-        position: absolute;
-        top: 10px;
-        right: 25px;
-    }
+  .burger-Bichi {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 25px;
+  }
 
-    .first-UlNamen {
-        flex-direction: column;
-        align-items: center;
-        gap: 4px;
-    }
+  .first-UlNamen {
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+  }
 
-    .hederDiv {
-        flex-direction: column;
-        top: 0px;
-    }
+  .hederDiv {
+    flex-direction: column;
+    top: 0px;
+  }
 
-    .navMen.neewigeishen {
-        display: block;
-    }
+  .navMen.neewigeishen {
+    display: block;
+  }
 
-    .vazi-venaxia {
-        display: none;
-    }
+  .vazi-venaxia {
+    display: none;
+  }
 
-    .navBarTegs {
-        font-size: 20px;
-        font-style: italic;
+  .navBarTegs {
+    font-size: 20px;
+    font-style: italic;
 
-    }
+  }
 
-    .al {
-        margin-top: 10px;
-    }
-    .marjvnena-congteiner{
-        gap: 20px;
-    }
-    .named-sTori{
-        margin-top: 20px;
-    }
-    .miani{
-        margin-top: 25px;
-    }
-    .Sorbe{
-        font-size: 23px;
-    }
-    .elVino{
-        font-size: 23px;
+  .al {
+    margin-top: 10px;
+  }
 
-    }
+  .marjvnena-congteiner {
+    gap: 20px;
+  }
 
-    .smodiVs-marger{
-        flex-direction: column;
-        gap: 20px;
-        margin-top:0px;
-    }
-    .backgroind-strings{
-        gap: 30px;
-    }
-    .Dorema{
-        font-size: 15px;
-       
-    }
-    .carbent{
-        font-size: 23px;
-    }
-  .vino{
+  .named-sTori {
+    margin-top: 20px;
+  }
+
+  .miani {
+    margin-top: 25px;
+  }
+
+  .Sorbe {
+    font-size: 23px;
+  }
+
+  .elVino {
+    font-size: 23px;
+
+  }
+
+  .smodiVs-marger {
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 0px;
+  }
+
+  .backgroind-strings {
+    gap: 30px;
+  }
+
+  .Dorema {
+    font-size: 15px;
+
+  }
+
+  .carbent {
+    font-size: 23px;
+  }
+
+  .vino {
     font-size: 20px;
     transition: 3s;
 
-  } 
-  .vino:hover{
+  }
+
+  .vino:hover {
     color: beige;
     text-shadow: 2px 2px rgb(138, 138, 138);
     transition: 3s;
   }
 
-  .lamejor{
+  .lamejor {
     font-size: 20px;
     line-height: 34px;
     transition: 4s;
 
-  } 
-  .lamejor:hover{
+  }
+
+  .lamejor:hover {
     color: beige;
     text-shadow: 2px 2px rgb(138, 138, 138);
     transition: 3s;
   }
 
-  
 
-  .descrube{
+
+  .descrube {
     font-size: 20px;
     line-height: 25px;
     transition: 4s;
-   
+
   }
-  .descrube:hover{
+
+  .descrube:hover {
     color: beige;
     text-shadow: 2px 2px rgb(138, 138, 138);
     transition: 3s;
   }
- 
- 
-  .Divs-merger{
+
+
+  .Divs-merger {
     gap: 10px;
   }
 
-  .footer-Div{
+  .footer-Div {
     max-width: 100%;
   }
-  .footter{
+
+  .footter {
     padding: 0;
   }
-  
-  .venaxis-movla{
+
+  .venaxis-movla {
     border-radius: 5%;
     width: 100%;
     letter-spacing: 1px;
     font-size: 30px;
   }
 
- 
+  .right-DIv{
+    height: 935vmax;
+  }
+  .left-Div{
+    height: 935vmax;
 
+  }
+
+
+  .First-dishesmarGer{
+    max-width: 90%;
+  }
 
 }
 
@@ -450,31 +589,37 @@ text-align: center;
 
 
 @media only screen and (max-width:320px) {
-    .al {
-        margin-top:0px;
-    }
-    .navBarTegs {
-        font-size: 10px;
-        font-style: italic;
+  .al {
+    margin-top: 0px;
+  }
 
-    }
-    .first-UlNamen {
-        flex-direction: column;
-        align-items: center;
-        gap: 0px;
-    }
-    .hederDiv{
-        margin-left:0px;
-    }
-    .marjvena-Divi{
-      display: none;
-    }
-    .right-DIv{
-      display: none;
-    }
-    .left-Div{
-      display: none;
-  
-    }
-  
+  .navBarTegs {
+    font-size: 10px;
+    font-style: italic;
+
+  }
+
+  .first-UlNamen {
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+  }
+
+  .hederDiv {
+    margin-left: 0px;
+  }
+
+  .marjvena-Divi {
+    display: none;
+  }
+
+  .right-DIv {
+    display: none;
+  }
+
+  .left-Div {
+    display: none;
+
+  }
+
 }

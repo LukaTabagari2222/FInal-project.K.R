@@ -49,3 +49,34 @@
          url('../fonts/bpg-dedaena-nonblock-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/bpg-dedaena-nonblock-webfont.svg#bpg_dedaena_nonblockregular') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+    font-family: 'Arial GEO BoldItalic';
+    src: url('../fonts/arial-geo-bolditalic-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/arial-geo-bolditalic-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/arial-geo-bolditalic-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/arial-geo-bolditalic-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/arial-geo-bolditalic-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/arial-geo-bolditalic-webfont.svg#arial_geobolditalic') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'BPG Glaho Bold';
+    src: url('../fonts/bpg-glaho-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-glaho-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-glaho-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-glaho-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-glaho-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-glaho-bold-webfont.svg#bpg_glahobold') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'DejaVu Sans';
+    src: url('../fonts/dejavu-sans-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/dejavu-sans-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/dejavu-sans-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/dejavu-sans-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/dejavu-sans-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/dejavu-sans-webfont.svg#dejavu_sansregular') format('svg'); /* Legacy iOS */
+}
