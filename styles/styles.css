@@ -1139,7 +1139,7 @@ color: rgba(49, 23, 23, 1);
 
 .divvabOuTN1{
     width: 7%;
-    height: 51rem;
+    height: 63rem;
     float: left;
     background-color: rgb(66, 22, 22);
     animation-name: divNomebr1;
@@ -1147,10 +1147,13 @@ color: rgba(49, 23, 23, 1);
     animation-delay: 5s;
     animation-iteration-count: infinite;
 }
-
+::selection{
+    color: #2C3E50;
+    text-shadow: rgb(0, 248, 174) 2px 2px;
+}
 .divvabOuTN2 {
     width: 7%;
-    height: 51rem;
+    height: 63rem;
     float: right;
     background-color: rgb(66, 22, 22);
     animation-name: divNomebr1;
@@ -1364,8 +1367,19 @@ color: rgba(49, 23, 23, 1);
     margin-top: 50px;
 }
 
+.iframe-img{
+    width: 40%;
+    height: 10%;
+    border-radius: 2%;
 
-
+    
+}
+.irame-Div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
 .bigDuvCenter {
     display: flex;
     justify-content: center;
@@ -1469,18 +1483,6 @@ input:hover {
     border-color: rgb(250, 135, 53);
 }
 
-
-*{
-    padding: 0px;
-    margin: 0px;
-    box-sizing: border-box;
-}
-a{
-    text-decoration: none;
-}
-ul li{
-    list-style: none;
-}
 .mesiges input{
     width:100%;
     height: 100px;
@@ -1603,7 +1605,7 @@ ul li{
     margin-top: 30px;
 }
 
-/* vazis historiFage */
+/* qartuli venaxebis istoria */
 .vazes-HostorMINE{
     width: 90%;
     margin: auto;
@@ -1733,3 +1735,218 @@ border:none;
     transition: 3s;
 }
 /* aqamdee */
+
+/* vazis istoria */
+.main-vaZis{
+    width: 90%;
+    margin: auto;
+animation-name: maina;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+
+}
+@keyframes maina{
+    10%{
+        background-color: #2C3E50;
+    }
+    50%{
+        background-color:#3b3737;
+    }
+    100%{
+        background-color:#0053a7;
+    }
+}
+.qarTUlivazis-Story{
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+    animation-name: vazes;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+    margin-top: 30px;
+    color:beige;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+.qarTUlivazis-Story::first-letter{
+    font-size: xx-large;
+    font-size: 45px;
+}
+@keyframes vazes{
+    10%{
+       color: #0053a7; 
+    }
+    20%{
+        color: #00ff00;
+    }
+    30%{
+        color: #b90e47;
+    }
+    40%{
+        color: #3b3737;
+    }
+    50%{
+        color: #ff0000;
+    }
+}
+
+.vaziLAT{
+    color: #0053a7;
+    font-size: 20px;
+    box-shadow: #0000ff 2px 2px 12px;
+    text-align: center;
+    width: 55%;
+    color:beige;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+.gamravLeba{
+    font-size: 35px;
+    color: #2C3E50;
+    font-style: italic;
+}
+.vegeTeiShen{
+    font-size: 35px;
+    color: #2C3E50;
+}
+.ifarmeN2{
+    border-radius: 5%;
+    box-shadow: 3px 3px 14px rgb(0, 230, 38);
+}
+.imgUlammzeSi{
+    width: 40%;
+    border-radius: 5%;
+    box-shadow: #fff 2px 2px 22px;
+}
+.imgUlammzeSi:hover{
+    transform: scaleX(-1);
+}
+.yVavilebis-Jammi{
+    border-radius: 10%;
+    box-shadow: 4px 4px 14px rgb(72, 4, 231); 
+}
+.tesli{
+    color: red;
+}
+.saqarTVelo-VaziText{
+    border-radius: 10%;
+    box-shadow: 2px 2px 20px rgb(16, 163, 2);
+}
+.bOXShadow{
+    font-family: 'BPG Nino Medium Condenced';
+    border-radius: 10%;
+    box-shadow: #ff0077 2px 2px 14px;
+}
+.iamGes-VsaZi{
+    width: 40%;
+    border-radius: 5%;
+    box-shadow: 2px 2px 12px red;
+    animation-name: Box-sahdow;
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+    animation-duration: 3s;
+    
+}
+.iamGes-VsaZi:hover{
+    transform: scaleX(-1);
+}
+.Fist-vziSDIv{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.vAZIS-REVESED{
+    display: flex;
+    flex-direction: row;
+}
+.iftraMEVazi{
+    border: solid 1px;
+    border-color: #ff0000;
+    border-radius: 5%;
+    box-shadow: #FFA500 2px 2px 12px;
+    animation-name: Box-sahdow;
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+    animation-duration: 3s;
+    
+}
+.iframeN3{
+    border-radius: 10%;
+    box-shadow: #FFA500 2px 2px 20px;
+    animation-name: Box-sahdow;
+    animation-iteration-count: infinite;
+    animation-delay: 2s;
+    animation-duration: 3s;
+}
+@keyframes Box-sahdow{
+    10%{
+        box-shadow: #00ff00 2px 2px 12px;
+    }
+    20%{
+        box-shadow: #b90e47 2px 2px 12px;
+    }
+    30%{
+        box-shadow: cadetblue 2px 2px 12px;
+    }
+    40%{
+        box-shadow: red 2px 2px 12px;
+    }
+    50%{
+        box-shadow: rgb(107, 11, 185) 2px 2px 12px;
+    }
+}
+.SaqarTelo{
+    font-size: 35px;
+    color: #7268F6;
+    text-shadow: red 2px 2px;
+}
+.divN6{
+    display: flex;
+    margin-top: 50px;
+    align-items: center;
+    gap: 30px;
+}
+.vaZisMtevani{
+    width: 40%;
+    border-radius: 20%;
+}
+.vaZisMtevani:hover{
+    transform: scaleX(-1);
+}
+.SaqarTeloo{
+    font-size: 25px;
+    text-shadow: #0000ff 2px 2px 40px;
+    font-style: italic;
+    text-align: center;
+    
+}
+.divN7{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 50px;
+    gap: 30px; 
+    align-items: center;
+}
+.vaZiS-nnewStyl{
+    color: rgb(202, 10, 177);
+    text-shadow: #181717 2px 2px 24px;
+    font-size: 20px;
+    border-radius: 10%;
+}
+.saqarTVelo-VaziText::first-letter{
+    font-size: xx-large;
+    font-size: 35px;
+    color: red;
+}
+.iframe-bolo{
+    border-radius: 30%;
+    box-shadow: #2df888 2px 2px 30px;
+}
+.vazis-jishebi{
+    font-size: 25px;
+    font-style: italic;
+    text-shadow: 2px 2px red;
+}
+
+/* aqamdeee */

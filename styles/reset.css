@@ -49,9 +49,7 @@ table {
 a{
     text-decoration: none;
 }
-a:active{
-	color: red;
-}
+
 *{
     box-sizing: border-box;
 }
