@@ -113,6 +113,7 @@
 }
 .vazi-mundam{
   width: 100%;
+  text-align: center;
 }
 .img-Strings{
   gap: 30px;
@@ -125,10 +126,13 @@
   width: 100%;
 }
 .right-Divi{
-  height: 400vmax;
+  height: 420vmax;
+}
+.agHsaniShnavi{
+  text-align: center;
 }
 .levt-DIv{
-  height: 400vmax;
+  height: 420vmax;
 
 }
 .imagewIteliVazi{
@@ -142,6 +146,7 @@
   gap: 30px;
 }
 .dzvelia{
+  text-align: center;
   width: 100%;
 }
 .hectar-Top{
@@ -179,6 +184,153 @@
   width: 90%;
 }
 .iframeN3{
+  width: 90%;
+}
+
+.jvris-Div{
+  flex-direction: column;
+}
+.jvar-imG{
+  width: 90%;
+}
+.baGRats-Div{
+  flex-direction: column;
+}
+.bagrati-iMg{
+  width: 90%;
+}
+.bagratis-tadzari{
+  margin-top: 20px;
+}
+.gelatIS-Div{
+  flex-direction: column;
+}
+.gelaTi-IMg{
+  width: 90%;
+}
+.sveTicxovlis-Div{
+  flex-direction: column;
+}
+.sveticxovlis-IMg{
+  width: 90%;
+}
+.gelatis-Strings{
+  font-size: 18px;
+}
+.sveticXOvlis-Strings{
+  font-size: 18px;
+}
+.sveticxovlis-sakaTedroTadzari{
+  text-align: center;
+  font-size: 25px;
+}
+.Gergetis-Div{
+  flex-direction: column;
+}
+.GErgetis-IMg{
+  width: 90%;
+}
+.gergetis-Strings{
+  font-size: 18px;
+}
+.geregetisSamebsi-Eklesia{
+  font-size: 25px;
+}
+.kvareli-Div{
+  flex-direction: column;
+}
+.YVareli-imG{
+  width: 90%;
+}
+.adGIlis{
+  font-size: 18px;
+}
+.h3Stringskvarel{
+  font-size: 18px;
+}
+.kvareli-Div{
+  margin-top: 20px;
+}
+.mestia-Div{
+  flex-direction: column;
+}
+.mesTiaImg{
+  width: 90%;
+}
+.Axlaa{
+  font-size: 18px;
+}
+.mestiaa{
+  margin-top: 30px;
+}
+.zaMtari{
+  font-size: 18px;
+}
+.daShabShi-Div{
+  flex-direction: column;
+}
+.dashbasshiIMg{
+  width: 90%;
+}
+.daSh-kanIoni{
+  font-size: 18px;
+  text-align: center;
+}
+.tqvenbaq{
+  font-size: 18px;
+  text-align: center;
+}
+.tusheT-Div{
+  flex-direction: column;
+}
+.Tusheti-IMg{
+  width: 90%;
+}
+.Tusheta-tteing{
+  font-size: 18px;
+  text-align: center;
+}
+.tusheti{
+  font-size: 18px;
+  text-align: center;
+}
+.xixanis-Div{
+  flex-direction: column;
+}
+.xixanis-IMg{
+  width: 90%;
+}
+.xixan-Strungs{
+  font-size: 18px;
+  text-align: center;
+}
+.xixan-Strungs{
+  font-size: 18px;
+  text-align: center;
+}
+.XInklis-Dvi{
+  flex-direction: column;
+}
+.Xinkali{
+  width: 90%;
+}
+.xinkis-Strings{
+  width: 90%;
+}
+.sacivi{
+  width: 90%;
+}
+.sacivia{
+  text-align: center;
+  width: 90%;
+}
+.fkali-string{
+  width: 90%;
+}
+.fkhali{
+  width: 90%;
+}
+.Elarji{
   width: 90%;
 }
 }
@@ -451,6 +603,32 @@
     height: 600vmax;
   
   }
+  .jvris-Strings{
+    font-size: 15px;
+  }
+  .bagratis-tadzari{
+    font-size: 25px;
+  }
+  .bagraT-Strings{
+    font-size: 18px;
+  }
+  .jvris-Strings{
+    font-size: 18px;
+  }
+  .jvris-monasteri{
+    font-size: 25px;
+  }
+  .GelaTis-MOnasteri{
+    font-size: 25px;
+  }
+  .mestia-Div{
+    margin-top: 30px;
+  }
+
+  .sacivia{
+    text-align: center;
+  }
+
 }
 
 
@@ -613,7 +791,60 @@
   .First-dishesmarGer{
     max-width: 90%;
   }
+  .XInklis-Dvi{
+      gap: 10px;
+  }
+  .fkali-string{
+    font-size: 15px;
+    text-align: center;
+  }
+  .xinkis-Strings{
+    font-size: 15px;
+    text-align: center;
+  }
+  .jvris-Strings{
+    font-size: 15px;
+  }
+  .bagraT-Strings{
+    font-size: 15px;
 
+  }
+  .gelatis-Strings{
+    font-size: 15px;
+  }
+  .sveticXOvlis-Strings{
+    font-size: 15px;
+  }
+  .gergetis-Strings{
+    font-size: 15px;
+  }
+  .adGIlis{
+    font-size: 15px;
+  }
+  .h3Stringskvareli{
+    font-size: 15px;
+  }
+  .Axlaa{
+    font-size: 15px;
+  }
+  .zaMtari{
+    font-size: 15px;
+  }
+  .daSh-kanIoni{
+    font-size: 15px;
+  }
+  .tqvenbaq{
+    font-size: 15px;
+  }
+  .Tusheta-tteing{
+    font-size: 15px;
+  }
+  .tusheti{
+    font-size: 15px;
+  }
+  .xixan-Strungs{
+    font-size: 15px;
+  }
 }
 
 
