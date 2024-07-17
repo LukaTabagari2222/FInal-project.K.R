@@ -3847,7 +3847,7 @@ box-shadow: 2px 2px 21px cadetblue;
 
 .left-Div {
     width: 10%;
-    height: 220vmax;
+    height: 200vmax;
     float: left;
     background-color: rgb(163, 163, 163);
     -webkit-animation-name: leftDiv;
@@ -3905,7 +3905,7 @@ box-shadow: 2px 2px 21px cadetblue;
 
 .right-DIv {
     width: 10%;
-    height: 220vmax;
+    height: 200vmax;
     float: right;
     background-color: rgb(163, 163, 163);
     -webkit-animation-name: rightDIv;
@@ -4101,7 +4101,7 @@ box-shadow: 2px 2px 21px cadetblue;
 
 .marjvena-Divi {
     width: 25%;
-    height: 403vmax;
+    height: 320vmax;
     float: left;
     background-color: rgb(207, 199, 199);
 }
