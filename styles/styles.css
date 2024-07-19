@@ -2730,11 +2730,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     width: 1440px;
     width: 90%;
     margin: auto;
@@ -2750,11 +2750,11 @@ box-shadow: 2px 2px 21px cadetblue;
     font-family: "KA_LORTKIPANIDZE", sans-serif;
     text-shadow: 2px 2px rgb(230, 32, 32);
     -webkit-animation-name: vazi;
-            animation-name: vazi;
+    animation-name: vazi;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-transition: 3s;
     -o-transition: 3s;
     transition: 3s;
@@ -2792,8 +2792,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 16px;
 }
 
@@ -2805,13 +2805,13 @@ box-shadow: 2px 2px 21px cadetblue;
     font-size: 35px;
     color: blueviolet;
     -webkit-animation-name: mtevani;
-            animation-name: mtevani;
+    animation-name: mtevani;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-delay: 2s;
-            animation-delay: 2s;
+    animation-delay: 2s;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     -webkit-transition: 7s;
     -o-transition: 7s;
     transition: 7s;
@@ -2822,13 +2822,13 @@ box-shadow: 2px 2px 21px cadetblue;
     10% {
         color: brown;
         -webkit-box-shadow: red 2px 2px 4px;
-                box-shadow: red 2px 2px 4px;
+        box-shadow: red 2px 2px 4px;
     }
 
     20% {
         color: red;
         -webkit-box-shadow: rgb(100, 0, 104) 2px 2px 4px;
-                box-shadow: rgb(100, 0, 104) 2px 2px 4px;
+        box-shadow: rgb(100, 0, 104) 2px 2px 4px;
     }
 
     30% {
@@ -2840,13 +2840,13 @@ box-shadow: 2px 2px 21px cadetblue;
     10% {
         color: brown;
         -webkit-box-shadow: red 2px 2px 4px;
-                box-shadow: red 2px 2px 4px;
+        box-shadow: red 2px 2px 4px;
     }
 
     20% {
         color: red;
         -webkit-box-shadow: rgb(100, 0, 104) 2px 2px 4px;
-                box-shadow: rgb(100, 0, 104) 2px 2px 4px;
+        box-shadow: rgb(100, 0, 104) 2px 2px 4px;
     }
 
     30% {
@@ -2861,8 +2861,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     width: 1140px;
     width: 100%;
 }
@@ -2914,11 +2914,11 @@ box-shadow: 2px 2px 21px cadetblue;
     -o-transition: 3s;
     transition: 3s;
     -webkit-animation-name: fontCvla;
-            animation-name: fontCvla;
+    animation-name: fontCvla;
     -webkit-animation-duration: 21s;
-            animation-duration: 21s;
+    animation-duration: 21s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 
 
 }
@@ -3017,11 +3017,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     text-align: center;
     gap: 43px;
     background: -webkit-gradient(linear, left top, left bottom, from(rgba(221, 207, 207, 0.35)), to(rgba(217, 217, 217, 0.35)));
@@ -3072,8 +3072,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 128px;
 }
 
@@ -3126,13 +3126,13 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     margin-top: 108px;
     gap: 50px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 }
 
 .leremas {
@@ -3149,11 +3149,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     width: 115px;
     height: 31px;
     border: solid 1px;
@@ -3174,11 +3174,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 
 }
 
@@ -3204,10 +3204,9 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    gap: 20px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 }
 
 .background-imageN2 {
@@ -3261,8 +3260,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     text-align: center;
     gap: 50px;
     position: relative;
@@ -3307,11 +3306,11 @@ box-shadow: 2px 2px 21px cadetblue;
     gap: 50px;
     position: relative;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     top: 57%;
 }
 
@@ -3336,14 +3335,14 @@ box-shadow: 2px 2px 21px cadetblue;
     height: 30px;
     color: rgb(29, 23, 23);
     -webkit-animation-name: back;
-            animation-name: back;
+    animation-name: back;
     font-size: 25px;
     -webkit-animation-delay: 2s;
-            animation-delay: 2s;
+    animation-delay: 2s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     border-radius: 10px;
 }
 
@@ -3394,14 +3393,14 @@ box-shadow: 2px 2px 21px cadetblue;
 .van {
     color: rgb(29, 23, 23);
     -webkit-animation-name: firstbottoRn;
-            animation-name: firstbottoRn;
+    animation-name: firstbottoRn;
     font-size: 25px;
     -webkit-animation-delay: 2s;
-            animation-delay: 2s;
+    animation-delay: 2s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
 
 }
 
@@ -3471,21 +3470,21 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     background-color: aqua;
     width: 100%;
     -webkit-animation-name: animeishen;
-            animation-name: animeishen;
+    animation-name: animeishen;
     -webkit-animation-delay: 2s;
-            animation-delay: 2s;
+    animation-delay: 2s;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     margin: auto;
     margin-top: 50px;
 }
@@ -3586,11 +3585,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     width: 350px;
     background-color: pink;
     -webkit-transition: 3s;
@@ -3612,8 +3611,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     background-color: rgb(236, 229, 229);
     gap: 20px;
     width: 100%;
@@ -3653,13 +3652,13 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     gap: 30px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     margin-top: 20px;
 }
 
@@ -3698,8 +3697,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     gap: 20px;
     background-color: pink;
 
@@ -3732,12 +3731,12 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .images-boxN3 {
@@ -3745,12 +3744,12 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .tbilVino {
@@ -3786,8 +3785,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     gap: 20px;
     background-color: rgb(236, 229, 229);
 }
@@ -3823,11 +3822,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 }
 
 .tvienitu {
@@ -3851,11 +3850,11 @@ box-shadow: 2px 2px 21px cadetblue;
     float: left;
     background-color: rgb(163, 163, 163);
     -webkit-animation-name: leftDiv;
-            animation-name: leftDiv;
+    animation-name: leftDiv;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 12s;
-            animation-duration: 12s;
+    animation-duration: 12s;
 }
 
 @-webkit-keyframes leftDiv {
@@ -3909,11 +3908,11 @@ box-shadow: 2px 2px 21px cadetblue;
     float: right;
     background-color: rgb(163, 163, 163);
     -webkit-animation-name: rightDIv;
-            animation-name: rightDIv;
+    animation-name: rightDIv;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 12s;
-            animation-duration: 12s;
+    animation-duration: 12s;
 }
 
 @-webkit-keyframes rightDIv {
@@ -3984,8 +3983,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     width: 350px;
 
 }
@@ -4003,8 +4002,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     gap: 20px;
 }
 
@@ -4049,11 +4048,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .margin-damwevi {
@@ -4065,12 +4064,12 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .conytroller-DIv {
@@ -4078,12 +4077,12 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .margin-Section {
@@ -4111,12 +4110,12 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
 }
 
 .reSetN2 {
@@ -4124,12 +4123,12 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     margin-top: 50px;
 }
 
@@ -4155,12 +4154,12 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     margin-top: 50px;
 }
 
@@ -4169,12 +4168,12 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
     margin-top: 50px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     margin-top: 50px;
 }
 
@@ -4193,11 +4192,11 @@ box-shadow: 2px 2px 21px cadetblue;
     margin-top: 40px;
     padding: 50px;
     -webkit-animation-name: fot;
-            animation-name: fot;
+    animation-name: fot;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
 
 }
 
@@ -4229,16 +4228,16 @@ box-shadow: 2px 2px 21px cadetblue;
     background-color: #34495e;
     margin: auto;
     -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
     -webkit-animation-name: footerdIv;
-            animation-name: footerdIv;
+    animation-name: footerdIv;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     -webkit-animation-delay: 1s;
-            animation-delay: 1s;
+    animation-delay: 1s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
 @-webkit-keyframes footerdIv {
@@ -4280,8 +4279,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     gap: 10px;
 }
 
@@ -4355,19 +4354,19 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 10px;
 }
 
 .venaxo {
     display: inline-block;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 
 }
 
@@ -4419,10 +4418,10 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     gap: 20px;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    flex-wrap: wrap;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     margin-top: 50px;
 
 }
@@ -4441,11 +4440,11 @@ box-shadow: 2px 2px 21px cadetblue;
     background-color: #34495e;
     border-radius: 50%;
     -webkit-animation-name: movlaVenaxis;
-            animation-name: movlaVenaxis;
+    animation-name: movlaVenaxis;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
 @-webkit-keyframes movlaVenaxis {
@@ -4501,13 +4500,13 @@ box-shadow: 2px 2px 21px cadetblue;
     float: left;
     background-color: rgb(66, 22, 22);
     -webkit-animation-name: divNomebr1;
-            animation-name: divNomebr1;
+    animation-name: divNomebr1;
     -webkit-animation-duration: 12s;
-            animation-duration: 12s;
+    animation-duration: 12s;
     -webkit-animation-delay: 5s;
-            animation-delay: 5s;
+    animation-delay: 5s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
 ::-moz-selection {
@@ -4526,13 +4525,13 @@ box-shadow: 2px 2px 21px cadetblue;
     float: right;
     background-color: rgb(66, 22, 22);
     -webkit-animation-name: divNomebr1;
-            animation-name: divNomebr1;
+    animation-name: divNomebr1;
     -webkit-animation-duration: 12s;
-            animation-duration: 12s;
+    animation-duration: 12s;
     -webkit-animation-delay: 5s;
-            animation-delay: 5s;
+    animation-delay: 5s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
 .haderBoy {
@@ -4621,11 +4620,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 
 }
 
@@ -4634,11 +4633,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     background-color: black;
     width: 400px;
     padding: 15px;
@@ -4647,13 +4646,13 @@ box-shadow: 2px 2px 21px cadetblue;
     color: whitesmoke;
     font-size: 40px;
     -webkit-animation-name: backgroundColor;
-            animation-name: backgroundColor;
+    animation-name: backgroundColor;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     -webkit-animation-delay: 1s;
-            animation-delay: 1s;
+    animation-delay: 1s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 
 
 }
@@ -4687,13 +4686,13 @@ box-shadow: 2px 2px 21px cadetblue;
 
 .amisDIv h2 {
     -webkit-animation-name: conatcSlengs;
-            animation-name: conatcSlengs;
+    animation-name: conatcSlengs;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     -webkit-animation-delay: 1s;
-            animation-delay: 1s;
+    animation-delay: 1s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-transition: 3s;
     -o-transition: 3s;
     transition: 3s;
@@ -4787,17 +4786,17 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     color: rgb(158, 154, 154);
     font-size: 35px;
     text-shadow: red 2px 2px 3px;
     -webkit-animation-name: imodrave;
-            animation-name: imodrave;
+    animation-name: imodrave;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
     position: relative;
 }
 
@@ -4825,20 +4824,20 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     margin-top: 40px;
     font-size: 30px;
     color: beige;
     text-shadow: red 2px 2px 2px;
     -webkit-animation-name: font;
-            animation-name: font;
+    animation-name: font;
     -webkit-animation-delay: 2s;
-            animation-delay: 2s;
+    animation-delay: 2s;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
 @-webkit-keyframes font {
@@ -4890,8 +4889,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 20rem;
     margin-top: 50px;
 }
@@ -4909,11 +4908,11 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     margin-top: 50px;
 }
 
@@ -4922,21 +4921,21 @@ box-shadow: 2px 2px 21px cadetblue;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     width: 50%;
     height: 100%;
     border: dotted;
     margin-top: 10px;
     -webkit-animation-name: backgrpoundN2;
-            animation-name: backgrpoundN2;
+    animation-name: backgrpoundN2;
     -webkit-animation-delay: 3s;
-            animation-delay: 3s;
+    animation-delay: 3s;
     -webkit-animation-duration: 10s;
-            animation-duration: 10s;
+    animation-duration: 10s;
     border-radius: 10%;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
 @-webkit-keyframes backgrpoundN2 {
@@ -4989,7 +4988,7 @@ box-shadow: 2px 2px 21px cadetblue;
     width: 100%;
     height: 51px;
     -ms-flex-negative: 0;
-        flex-shrink: 0;
+    flex-shrink: 0;
     border-radius: 7px;
     border: 4px solid #7268F6;
     background: #FFFAFA;
@@ -5006,8 +5005,8 @@ box-shadow: 2px 2px 21px cadetblue;
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     margin-top: 80px;
     width: 90%;
 }
@@ -5016,7 +5015,7 @@ box-shadow: 2px 2px 21px cadetblue;
     width: 100%;
     height: 51px;
     -ms-flex-negative: 0;
-        flex-shrink: 0;
+    flex-shrink: 0;
     border-radius: 7px;
     border: 4px solid #7268F6;
     background: #FFFAFA;
@@ -5032,7 +5031,7 @@ box-shadow: 2px 2px 21px cadetblue;
     width: 100%;
     height: 51px;
     -ms-flex-negative: 0;
-        flex-shrink: 0;
+    flex-shrink: 0;
     border-radius: 7px;
     border: 4px solid #7268F6;
     background: #FFFAFA;
@@ -5047,7 +5046,7 @@ input {
     width: 144px;
     height: 41px;
     -ms-flex-negative: 0;
-        flex-shrink: 0;
+    flex-shrink: 0;
     color: #3b3737;
     font-family: Roboto;
     font-size: 24px;
@@ -5064,7 +5063,7 @@ input:hover {
     width: 100%;
     height: 100px;
     -ms-flex-negative: 0;
-        flex-shrink: 0;
+    flex-shrink: 0;
     border-radius: 7px;
     border: 4px solid #7268F6;
     background: #FFFAFA;
@@ -5087,8 +5086,8 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
     margin-top: 10px;
 }
 
@@ -5116,11 +5115,11 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
 }
 
@@ -5130,8 +5129,8 @@ input:hover {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     max-width: 40%;
 }
 
@@ -5146,8 +5145,8 @@ input:hover {
 
 .xmob-keci:hover {
     -webkit-transform: scale(1.2);
-        -ms-transform: scale(1.2);
-            transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
     -webkit-transition: 3s;
     -o-transition: 3s;
     transition: 3s;
@@ -5183,8 +5182,8 @@ input:hover {
 
 .xmob-New:hover {
     -webkit-transform: skew(10deg, 10deg);
-        -ms-transform: skew(10deg, 10deg);
-            transform: skew(10deg, 10deg);
+    -ms-transform: skew(10deg, 10deg);
+    transform: skew(10deg, 10deg);
 
 }
 
@@ -5196,8 +5195,8 @@ input:hover {
 
 .rotate:hover {
     -webkit-transform: rotate(360deg);
-        -ms-transform: rotate(360deg);
-            transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
     -webkit-transition: 2s;
     -o-transition: 2s;
     transition: 2s;
@@ -5218,8 +5217,8 @@ input:hover {
 
 .skew:hover {
     -webkit-transform: skew(11deg);
-        -ms-transform: skew(11deg);
-            transform: skew(11deg);
+    -ms-transform: skew(11deg);
+    transform: skew(11deg);
     -webkit-transition: 2s;
     -o-transition: 2s;
     transition: 2s;
@@ -5233,7 +5232,7 @@ input:hover {
 
 .rotatt:hover {
     -webkit-transform: rotateY(40deg);
-            transform: rotateY(40deg);
+    transform: rotateY(40deg);
     -webkit-transition: 2s;
     -o-transition: 2s;
     transition: 2s;
@@ -5291,18 +5290,18 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     margin-top: 50px;
     -webkit-column-gap: 30px;
-       -moz-column-gap: 30px;
-            column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
 
 }
 
 .vazi-mundam {
     -webkit-box-shadow: 2px 2px 10px red;
-            box-shadow: 2px 2px 10px red;
+    box-shadow: 2px 2px 10px red;
 }
 
 .vaziSp-mtevaaNI {
@@ -5319,8 +5318,8 @@ input:hover {
     width: 80%;
     margin-top: 30px;
     -webkit-column-gap: 20px;
-       -moz-column-gap: 20px;
-            column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
 
 }
 
@@ -5330,14 +5329,14 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     width: 80%;
 }
 
 .border-no {
     -webkit-box-shadow: 2px 2px 10px green;
-            box-shadow: 2px 2px 10px green;
+    box-shadow: 2px 2px 10px green;
     border: none;
 }
 
@@ -5355,7 +5354,7 @@ input:hover {
     font-family: 'DejaVu Sans';
     width: 60%;
     -webkit-box-shadow: #0053a7 2px 2px 12px;
-            box-shadow: #0053a7 2px 2px 12px;
+    box-shadow: #0053a7 2px 2px 12px;
     border-radius: 5%;
     text-shadow: 2px 2px rgb(0, 230, 38);
 }
@@ -5384,19 +5383,19 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     margin-top: 50px;
     -webkit-column-gap: 20px;
-       -moz-column-gap: 20px;
-            column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
     text-align: center;
 }
 
 .new2021 {
     width: 40%;
     -webkit-box-shadow: 2px 2px 10px gold;
-            box-shadow: 2px 2px 10px gold;
+    box-shadow: 2px 2px 10px gold;
 }
 
 .hectariIMg {
@@ -5409,11 +5408,11 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-column-gap: 30px;
-       -moz-column-gap: 30px;
-            column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
     margin-top: 50px;
 }
 
@@ -5421,7 +5420,7 @@ input:hover {
     font-size: 20px;
     text-shadow: rgb(31, 160, 211) 2px 2px;
     -webkit-box-shadow: #b90e47 2px 2px 12px;
-            box-shadow: #b90e47 2px 2px 12px;
+    box-shadow: #b90e47 2px 2px 12px;
     -webkit-transition: 3s;
     -o-transition: 3s;
     transition: 3s;
@@ -5442,11 +5441,11 @@ input:hover {
     width: 90%;
     margin: auto;
     -webkit-animation-name: maina;
-            animation-name: maina;
+    animation-name: maina;
     -webkit-animation-duration: 4s;
-            animation-duration: 4s;
+    animation-duration: 4s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 
 }
 
@@ -5483,11 +5482,11 @@ input:hover {
     font-style: italic;
     text-align: center;
     -webkit-animation-name: vazes;
-            animation-name: vazes;
+    animation-name: vazes;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 2s;
-            animation-duration: 2s;
+    animation-duration: 2s;
     margin-top: 30px;
     color: beige;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
@@ -5546,7 +5545,7 @@ input:hover {
     color: #0053a7;
     font-size: 20px;
     -webkit-box-shadow: #0000ff 2px 2px 12px;
-            box-shadow: #0000ff 2px 2px 12px;
+    box-shadow: #0000ff 2px 2px 12px;
     text-align: center;
     width: 55%;
     color: beige;
@@ -5567,26 +5566,26 @@ input:hover {
 .ifarmeN2 {
     border-radius: 5%;
     -webkit-box-shadow: 3px 3px 14px rgb(0, 230, 38);
-            box-shadow: 3px 3px 14px rgb(0, 230, 38);
+    box-shadow: 3px 3px 14px rgb(0, 230, 38);
 }
 
 .imgUlammzeSi {
     width: 40%;
     border-radius: 5%;
     -webkit-box-shadow: #fff 2px 2px 22px;
-            box-shadow: #fff 2px 2px 22px;
+    box-shadow: #fff 2px 2px 22px;
 }
 
 .imgUlammzeSi:hover {
     -webkit-transform: scaleX(-1);
-        -ms-transform: scaleX(-1);
-            transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 .yVavilebis-Jammi {
     border-radius: 10%;
     -webkit-box-shadow: 4px 4px 14px rgb(72, 4, 231);
-            box-shadow: 4px 4px 14px rgb(72, 4, 231);
+    box-shadow: 4px 4px 14px rgb(72, 4, 231);
 }
 
 .tesli {
@@ -5596,36 +5595,36 @@ input:hover {
 .saqarTVelo-VaziText {
     border-radius: 10%;
     -webkit-box-shadow: 2px 2px 20px rgb(16, 163, 2);
-            box-shadow: 2px 2px 20px rgb(16, 163, 2);
+    box-shadow: 2px 2px 20px rgb(16, 163, 2);
 }
 
 .bOXShadow {
     font-family: 'BPG Nino Medium Condenced';
     border-radius: 10%;
     -webkit-box-shadow: #ff0077 2px 2px 14px;
-            box-shadow: #ff0077 2px 2px 14px;
+    box-shadow: #ff0077 2px 2px 14px;
 }
 
 .iamGes-VsaZi {
     width: 40%;
     border-radius: 5%;
     -webkit-box-shadow: 2px 2px 12px red;
-            box-shadow: 2px 2px 12px red;
+    box-shadow: 2px 2px 12px red;
     -webkit-animation-name: Box-sahdow;
-            animation-name: Box-sahdow;
+    animation-name: Box-sahdow;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-delay: 2s;
-            animation-delay: 2s;
+    animation-delay: 2s;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
 
 }
 
 .iamGes-VsaZi:hover {
     -webkit-transform: scaleX(-1);
-        -ms-transform: scaleX(-1);
-            transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 .Fist-vziSDIv {
@@ -5634,11 +5633,11 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 30px;
     margin-top: 50px;
 }
@@ -5649,8 +5648,8 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
 }
 
 .iftraMEVazi {
@@ -5658,83 +5657,83 @@ input:hover {
     border-color: #ff0000;
     border-radius: 5%;
     -webkit-box-shadow: #FFA500 2px 2px 12px;
-            box-shadow: #FFA500 2px 2px 12px;
+    box-shadow: #FFA500 2px 2px 12px;
     -webkit-animation-name: Box-sahdow;
-            animation-name: Box-sahdow;
+    animation-name: Box-sahdow;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-delay: 2s;
-            animation-delay: 2s;
+    animation-delay: 2s;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
 
 }
 
 .iframeN3 {
     border-radius: 10%;
     -webkit-box-shadow: #FFA500 2px 2px 20px;
-            box-shadow: #FFA500 2px 2px 20px;
+    box-shadow: #FFA500 2px 2px 20px;
     -webkit-animation-name: Box-sahdow;
-            animation-name: Box-sahdow;
+    animation-name: Box-sahdow;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-delay: 2s;
-            animation-delay: 2s;
+    animation-delay: 2s;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
 }
 
 @-webkit-keyframes Box-sahdow {
     10% {
         -webkit-box-shadow: #00ff00 2px 2px 12px;
-                box-shadow: #00ff00 2px 2px 12px;
+        box-shadow: #00ff00 2px 2px 12px;
     }
 
     20% {
         -webkit-box-shadow: #b90e47 2px 2px 12px;
-                box-shadow: #b90e47 2px 2px 12px;
+        box-shadow: #b90e47 2px 2px 12px;
     }
 
     30% {
         -webkit-box-shadow: cadetblue 2px 2px 12px;
-                box-shadow: cadetblue 2px 2px 12px;
+        box-shadow: cadetblue 2px 2px 12px;
     }
 
     40% {
         -webkit-box-shadow: red 2px 2px 12px;
-                box-shadow: red 2px 2px 12px;
+        box-shadow: red 2px 2px 12px;
     }
 
     50% {
         -webkit-box-shadow: rgb(107, 11, 185) 2px 2px 12px;
-                box-shadow: rgb(107, 11, 185) 2px 2px 12px;
+        box-shadow: rgb(107, 11, 185) 2px 2px 12px;
     }
 }
 
 @keyframes Box-sahdow {
     10% {
         -webkit-box-shadow: #00ff00 2px 2px 12px;
-                box-shadow: #00ff00 2px 2px 12px;
+        box-shadow: #00ff00 2px 2px 12px;
     }
 
     20% {
         -webkit-box-shadow: #b90e47 2px 2px 12px;
-                box-shadow: #b90e47 2px 2px 12px;
+        box-shadow: #b90e47 2px 2px 12px;
     }
 
     30% {
         -webkit-box-shadow: cadetblue 2px 2px 12px;
-                box-shadow: cadetblue 2px 2px 12px;
+        box-shadow: cadetblue 2px 2px 12px;
     }
 
     40% {
         -webkit-box-shadow: red 2px 2px 12px;
-                box-shadow: red 2px 2px 12px;
+        box-shadow: red 2px 2px 12px;
     }
 
     50% {
         -webkit-box-shadow: rgb(107, 11, 185) 2px 2px 12px;
-                box-shadow: rgb(107, 11, 185) 2px 2px 12px;
+        box-shadow: rgb(107, 11, 185) 2px 2px 12px;
     }
 }
 
@@ -5750,8 +5749,8 @@ input:hover {
     display: flex;
     margin-top: 50px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 30px;
 }
 
@@ -5762,8 +5761,8 @@ input:hover {
 
 .vaZisMtevani:hover {
     -webkit-transform: scaleX(-1);
-        -ms-transform: scaleX(-1);
-            transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 .SaqarTeloo {
@@ -5780,13 +5779,13 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     margin-top: 50px;
     gap: 30px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 }
 
 .vaZiS-nnewStyl {
@@ -5805,7 +5804,7 @@ input:hover {
 .iframe-bolo {
     border-radius: 30%;
     -webkit-box-shadow: #2df888 2px 2px 30px;
-            box-shadow: #2df888 2px 2px 30px;
+    box-shadow: #2df888 2px 2px 30px;
 }
 
 .vazis-jishebi {
@@ -5824,14 +5823,17 @@ input:hover {
     animation-duration: 3s;
     animation-iteration-count: infinite;
 }
-@keyframes main{
-    10%{
+
+@keyframes main {
+    10% {
         background-color: #2C3E50;
     }
-    20%{
-        background-color:#494242;
+
+    20% {
+        background-color: #494242;
     }
-    30%{
+
+    30% {
         background-color: #555;
     }
 }
@@ -5841,32 +5843,37 @@ input:hover {
     margin: auto;
     background-color: #3b3737;
     -webkit-animation-name: main;
-            animation-name: main;
+    animation-name: main;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
 }
 
-@-webkit-keyframes main{
-    10%{
+@-webkit-keyframes main {
+    10% {
         background-color: #2C3E50;
     }
-    20%{
-        background-color:#720000;
+
+    20% {
+        background-color: #720000;
     }
-    30%{
+
+    30% {
         background-color: #555;
     }
 }
-@keyframes main{
-    10%{
+
+@keyframes main {
+    10% {
         background-color: #2C3E50;
     }
-    20%{
-        background-color:#720000;
+
+    20% {
+        background-color: #720000;
     }
-    30%{
+
+    30% {
         background-color: #555;
     }
 }
@@ -5879,13 +5886,13 @@ input:hover {
     border-radius: 20%;
     height: 10%;
     -webkit-animation-name: Yvareli;
-            animation-name: Yvareli;
+    animation-name: Yvareli;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-box-shadow: 2px 2px 21px red;
-            box-shadow: 2px 2px 21px red;
+    box-shadow: 2px 2px 21px red;
 
 }
 
@@ -5893,22 +5900,22 @@ input:hover {
     10% {
         border-radius: 35%;
         -webkit-box-shadow: #0000ff 2px 2px 21px;
-                box-shadow: #0000ff 2px 2px 21px;
+        box-shadow: #0000ff 2px 2px 21px;
     }
 
     20% {
         -webkit-box-shadow: #00ff00 2px 2px 21px;
-                box-shadow: #00ff00 2px 2px 21px;
+        box-shadow: #00ff00 2px 2px 21px;
     }
 
     30% {
         -webkit-box-shadow: #FFA500 2px 2px 21px;
-                box-shadow: #FFA500 2px 2px 21px;
+        box-shadow: #FFA500 2px 2px 21px;
     }
 
     40% {
         -webkit-box-shadow: #ff0077 2px 2px 21px;
-                box-shadow: #ff0077 2px 2px 21px;
+        box-shadow: #ff0077 2px 2px 21px;
     }
 
 }
@@ -5917,30 +5924,30 @@ input:hover {
     10% {
         border-radius: 35%;
         -webkit-box-shadow: #0000ff 2px 2px 21px;
-                box-shadow: #0000ff 2px 2px 21px;
+        box-shadow: #0000ff 2px 2px 21px;
     }
 
     20% {
         -webkit-box-shadow: #00ff00 2px 2px 21px;
-                box-shadow: #00ff00 2px 2px 21px;
+        box-shadow: #00ff00 2px 2px 21px;
     }
 
     30% {
         -webkit-box-shadow: #FFA500 2px 2px 21px;
-                box-shadow: #FFA500 2px 2px 21px;
+        box-shadow: #FFA500 2px 2px 21px;
     }
 
     40% {
         -webkit-box-shadow: #ff0077 2px 2px 21px;
-                box-shadow: #ff0077 2px 2px 21px;
+        box-shadow: #ff0077 2px 2px 21px;
     }
 
 }
 
 .YVareli-imG:hover {
     -webkit-transform: scaleX(-1);
-        -ms-transform: scaleX(-1);
-            transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 .adGIlis {
@@ -5959,8 +5966,8 @@ input:hover {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
 
 .kvareli-Div {
@@ -5969,8 +5976,8 @@ input:hover {
     display: flex;
     gap: 30px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 }
 
 .h3Stringskvareli {
@@ -5988,13 +5995,13 @@ input:hover {
     width: 50%;
     border-radius: 20%;
     -webkit-animation-name: Yvareli;
-            animation-name: Yvareli;
+    animation-name: Yvareli;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-box-shadow: 2px 2px 21px red;
-            box-shadow: 2px 2px 21px red;
+    box-shadow: 2px 2px 21px red;
     margin-top: 50px;
 }
 
@@ -6023,11 +6030,11 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 30px;
     margin-top: 50px;
 }
@@ -6038,14 +6045,14 @@ input:hover {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
 
 .mesTiaImg:hover {
     -webkit-transform: scaleX(-1);
-        -ms-transform: scaleX(-1);
-            transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 .mestiaa {
@@ -6053,8 +6060,8 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     font-size: 30px;
     color: beige;
     text-shadow: 2px 2px red;
@@ -6077,31 +6084,31 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 30px;
     margin-top: 50px;
 }
 
 .dashbasshiIMg {
     -webkit-animation-name: Yvareli;
-            animation-name: Yvareli;
+    animation-name: Yvareli;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-box-shadow: 2px 2px 21px red;
-            box-shadow: 2px 2px 21px red;
+    box-shadow: 2px 2px 21px red;
     width: 50%;
     border-radius: 20%;
     -webkit-box-shadow: 2px 2px 21px rgb(30, 255, 0);
-            box-shadow: 2px 2px 21px rgb(30, 255, 0);
+    box-shadow: 2px 2px 21px rgb(30, 255, 0);
 }
 
 .dashbasshiIMg:hover {
     -webkit-transform: scaleX(-1);
-        -ms-transform: scaleX(-1);
-            transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 .daShbaShi-String {
@@ -6110,8 +6117,8 @@ input:hover {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
 
 .daSh-kanIoni {
@@ -6134,14 +6141,14 @@ input:hover {
     width: 50%;
     border-radius: 20%;
     -webkit-box-shadow: 2px 2px 21px rgb(2, 200, 250);
-            box-shadow: 2px 2px 21px rgb(2, 200, 250);
+    box-shadow: 2px 2px 21px rgb(2, 200, 250);
     margin-top: 50px;
 }
 
 .Tusheti-IMg:hover {
     -webkit-transform: scaleX(-1);
-        -ms-transform: scaleX(-1);
-            transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 .tushets-Strings {
@@ -6150,8 +6157,8 @@ input:hover {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
 
 .tusheT-Div {
@@ -6159,15 +6166,15 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     gap: 30px;
 }
 
@@ -6194,8 +6201,8 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     font-size: 30px;
     font-weight: 800;
     margin-top: 50px;
@@ -6212,8 +6219,8 @@ input:hover {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     gap: 20px;
 }
 
@@ -6230,26 +6237,26 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 30px;
     margin-top: 50px;
 }
 
 .xixanis-IMg:hover {
     -webkit-transform: scaleX(-1);
-        -ms-transform: scaleX(-1);
-            transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 .jvar-imG {
     width: 40%;
     border-radius: 2%;
     -webkit-box-shadow: 2px 2px 21px cornflowerblue;
-            box-shadow: 2px 2px 21px cornflowerblue;
+    box-shadow: 2px 2px 21px cornflowerblue;
 }
 
 .jvris-monasteri {
@@ -6257,11 +6264,11 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     font-size: 32px;
     color: beige;
     text-shadow: 2px 1px rgb(116, 133, 133);
@@ -6275,14 +6282,14 @@ input:hover {
     border-radius: 5%;
     text-align: center;
     -webkit-box-shadow: #00ff00 2px 2px 21px;
-            box-shadow: #00ff00 2px 2px 21px;
+    box-shadow: #00ff00 2px 2px 21px;
 
 }
 
 .jvris-Strings:hover {
     border: none;
     -webkit-box-shadow: #03d3f8 2px 2px 21px;
-            box-shadow: #03d3f8 2px 2px 21px;
+    box-shadow: #03d3f8 2px 2px 21px;
 
 }
 
@@ -6292,8 +6299,8 @@ input:hover {
     display: flex;
     gap: 30px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 }
 
 .jvris-StriNgers {
@@ -6302,8 +6309,8 @@ input:hover {
     display: flex;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     gap: 20px;
 }
 
@@ -6311,7 +6318,7 @@ input:hover {
     width: 40%;
     border-radius: 2%;
     -webkit-box-shadow: 2px 2px 21px cadetblue;
-            box-shadow: 2px 2px 21px cadetblue;
+    box-shadow: 2px 2px 21px cadetblue;
 }
 
 .bagratis-tadzari {
@@ -6319,11 +6326,11 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     font-size: 32px;
     color: beige;
     text-shadow: 2px 1px rgb(116, 133, 133);
@@ -6338,7 +6345,7 @@ input:hover {
     border-radius: 5%;
     text-align: center;
     -webkit-box-shadow: #00ff00 2px 2px 21px;
-            box-shadow: #00ff00 2px 2px 21px;
+    box-shadow: #00ff00 2px 2px 21px;
 }
 
 .baGRats-Div {
@@ -6347,12 +6354,12 @@ input:hover {
     display: flex;
     gap: 30px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     margin-top: 50px;
 }
 
@@ -6361,11 +6368,11 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     font-size: 32px;
     color: beige;
     text-shadow: 2px 1px rgb(116, 133, 133);
@@ -6380,14 +6387,14 @@ input:hover {
     border-radius: 5%;
     text-align: center;
     -webkit-box-shadow: #00ff00 2px 2px 21px;
-            box-shadow: #00ff00 2px 2px 21px;
+    box-shadow: #00ff00 2px 2px 21px;
 }
 
 .gelaTi-IMg {
     width: 40%;
     border-radius: 2%;
     -webkit-box-shadow: 2px 2px 21px cadetblue;
-            box-shadow: 2px 2px 21px cadetblue;
+    box-shadow: 2px 2px 21px cadetblue;
 }
 
 .gelatIS-Div {
@@ -6395,8 +6402,8 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 30px;
     margin-top: 50px;
 }
@@ -6406,8 +6413,8 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 30px;
     margin-top: 50px;
 }
@@ -6416,7 +6423,7 @@ input:hover {
     width: 40%;
     border-radius: 2%;
     -webkit-box-shadow: 2px 2px 21px cadetblue;
-            box-shadow: 2px 2px 21px cadetblue;
+    box-shadow: 2px 2px 21px cadetblue;
 }
 
 .sveticXOvlis-Strings {
@@ -6427,7 +6434,7 @@ input:hover {
     border-radius: 5%;
     text-align: center;
     -webkit-box-shadow: #00ff00 2px 2px 21px;
-            box-shadow: #00ff00 2px 2px 21px;
+    box-shadow: #00ff00 2px 2px 21px;
 }
 
 .sveticxovlis-sakaTedroTadzari {
@@ -6435,11 +6442,11 @@ input:hover {
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     font-size: 32px;
     color: beige;
     text-shadow: 2px 1px rgb(116, 133, 133);
@@ -6452,21 +6459,23 @@ input:hover {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     gap: 30px;
     margin-top: 50px;
 }
-.GErgetis-IMg{
-width: 40%;
-border-radius: 2%;
--webkit-box-shadow: 2px 2px 21px cadetblue;
-        box-shadow: 2px 2px 21px cadetblue;
+
+.GErgetis-IMg {
+    width: 40%;
+    border-radius: 2%;
+    -webkit-box-shadow: 2px 2px 21px cadetblue;
+    box-shadow: 2px 2px 21px cadetblue;
 }
-.gergetis-Strings{
+
+.gergetis-Strings {
     font-size: 20px;
     font-family: 'BPG Nuskha Modern';
     color: #fff;
@@ -6474,18 +6483,19 @@ border-radius: 2%;
     border-radius: 5%;
     text-align: center;
     -webkit-box-shadow: #00ff00 2px 2px 21px;
-            box-shadow: #00ff00 2px 2px 21px;
+    box-shadow: #00ff00 2px 2px 21px;
 }
-.geregetisSamebsi-Eklesia{
+
+.geregetisSamebsi-Eklesia {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
     font-size: 32px;
     color: beige;
     text-shadow: 2px 1px rgb(116, 133, 133);
@@ -6496,216 +6506,246 @@ border-radius: 2%;
 
 /* kulturuli kerdzebi */
 
-@-webkit-keyframes Bilo{
-    10%{
+@-webkit-keyframes Bilo {
+    10% {
         -webkit-box-shadow: 2px 2px 21px crimson;
-                box-shadow: 2px 2px 21px crimson;
+        box-shadow: 2px 2px 21px crimson;
     }
-    20%{
+
+    20% {
         -webkit-box-shadow: 2px 2px 21px blue;
-                box-shadow: 2px 2px 21px blue; 
+        box-shadow: 2px 2px 21px blue;
     }
-    30%{
+
+    30% {
         -webkit-box-shadow: 2px 2px 21px rgb(255, 108, 206);
-                box-shadow: 2px 2px 21px rgb(255, 108, 206); 
+        box-shadow: 2px 2px 21px rgb(255, 108, 206);
     }
-    40%{
+
+    40% {
         -webkit-box-shadow: 2px 2px 21px rgba(18, 168, 255, 0.616);
-                box-shadow: 2px 2px 21px rgba(18, 168, 255, 0.616); 
+        box-shadow: 2px 2px 21px rgba(18, 168, 255, 0.616);
     }
 }
 
-@keyframes Bilo{
-    10%{
+@keyframes Bilo {
+    10% {
         -webkit-box-shadow: 2px 2px 21px crimson;
-                box-shadow: 2px 2px 21px crimson;
+        box-shadow: 2px 2px 21px crimson;
     }
-    20%{
+
+    20% {
         -webkit-box-shadow: 2px 2px 21px blue;
-                box-shadow: 2px 2px 21px blue; 
+        box-shadow: 2px 2px 21px blue;
     }
-    30%{
+
+    30% {
         -webkit-box-shadow: 2px 2px 21px rgb(255, 108, 206);
-                box-shadow: 2px 2px 21px rgb(255, 108, 206); 
+        box-shadow: 2px 2px 21px rgb(255, 108, 206);
     }
-    40%{
+
+    40% {
         -webkit-box-shadow: 2px 2px 21px rgba(18, 168, 255, 0.616);
-                box-shadow: 2px 2px 21px rgba(18, 168, 255, 0.616); 
+        box-shadow: 2px 2px 21px rgba(18, 168, 255, 0.616);
     }
 }
-.bolo-SecTiooN{
+
+.bolo-SecTiooN {
     margin-top: 50px;
 }
-.XInklis-Dvi{
+
+.XInklis-Dvi {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     gap: 30px;
     -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
 }
-.Xinkali{
+
+.Xinkali {
     width: 40%;
     border-radius: 5%;
     -webkit-box-shadow: 2px 2px 21px rgb(0, 248, 174);
-            box-shadow: 2px 2px 21px rgb(0, 248, 174);
+    box-shadow: 2px 2px 21px rgb(0, 248, 174);
     -webkit-animation-name: Bilo;
-            animation-name: Bilo;
+    animation-name: Bilo;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
 }
-.xinkis-Strings{
+
+.xinkis-Strings {
     font-size: 20px;
     width: 60%;
     font-family: 'BPG Mikheil Stefane';
     -webkit-box-shadow: 10px 5px 21px red;
-            box-shadow: 10px 5px 21px red;
+    box-shadow: 10px 5px 21px red;
     -webkit-animation-name: text-anime;
-            animation-name: text-anime;
+    animation-name: text-anime;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
     color: beige;
 }
-@-webkit-keyframes text-anime{
-    10%{
+
+@-webkit-keyframes text-anime {
+    10% {
         -webkit-box-shadow: 10px 5px 21px rgb(172, 160, 160);
-                box-shadow: 10px 5px 21px rgb(172, 160, 160);
+        box-shadow: 10px 5px 21px rgb(172, 160, 160);
 
     }
-    20%{
+
+    20% {
         -webkit-box-shadow: 10px 5px 21px rgb(96, 253, 6);
-                box-shadow: 10px 5px 21px rgb(96, 253, 6);
+        box-shadow: 10px 5px 21px rgb(96, 253, 6);
 
     }
-    30%{
+
+    30% {
         -webkit-box-shadow: 10px 5px 21px rgb(74, 10, 156);
-                box-shadow: 10px 5px 21px rgb(74, 10, 156);
- 
+        box-shadow: 10px 5px 21px rgb(74, 10, 156);
+
     }
-    40%{
+
+    40% {
         -webkit-box-shadow: 10px 5px 21px rgb(131, 233, 90);
-                box-shadow: 10px 5px 21px rgb(131, 233, 90);
- 
+        box-shadow: 10px 5px 21px rgb(131, 233, 90);
+
     }
-    50%{
+
+    50% {
         -webkit-box-shadow: 10px 5px 21px rgb(248, 73, 3);
-                box-shadow: 10px 5px 21px rgb(248, 73, 3);
+        box-shadow: 10px 5px 21px rgb(248, 73, 3);
 
     }
 }
-@keyframes text-anime{
-    10%{
+
+@keyframes text-anime {
+    10% {
         -webkit-box-shadow: 10px 5px 21px rgb(172, 160, 160);
-                box-shadow: 10px 5px 21px rgb(172, 160, 160);
+        box-shadow: 10px 5px 21px rgb(172, 160, 160);
 
     }
-    20%{
+
+    20% {
         -webkit-box-shadow: 10px 5px 21px rgb(96, 253, 6);
-                box-shadow: 10px 5px 21px rgb(96, 253, 6);
+        box-shadow: 10px 5px 21px rgb(96, 253, 6);
 
     }
-    30%{
+
+    30% {
         -webkit-box-shadow: 10px 5px 21px rgb(74, 10, 156);
-                box-shadow: 10px 5px 21px rgb(74, 10, 156);
- 
+        box-shadow: 10px 5px 21px rgb(74, 10, 156);
+
     }
-    40%{
+
+    40% {
         -webkit-box-shadow: 10px 5px 21px rgb(131, 233, 90);
-                box-shadow: 10px 5px 21px rgb(131, 233, 90);
- 
+        box-shadow: 10px 5px 21px rgb(131, 233, 90);
+
     }
-    50%{
+
+    50% {
         -webkit-box-shadow: 10px 5px 21px rgb(248, 73, 3);
-                box-shadow: 10px 5px 21px rgb(248, 73, 3);
+        box-shadow: 10px 5px 21px rgb(248, 73, 3);
 
     }
 }
-.xinkali-top{
+
+.xinkali-top {
     -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     margin-top: 50px;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
 }
-.xacahpuri{
+
+.xacahpuri {
     width: 50%;
 }
-.fkhali{
+
+.fkhali {
     width: 40%;
     -webkit-box-shadow: 2px 2px 21px burlywood;
-            box-shadow: 2px 2px 21px burlywood;
+    box-shadow: 2px 2px 21px burlywood;
     border-radius: 5%;
     -webkit-animation-name: text-anime;
-            animation-name: text-anime;
+    animation-name: text-anime;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
 }
-.fkali-string{
+
+.fkali-string {
     -webkit-animation-name: text-anime;
-            animation-name: text-anime;
+    animation-name: text-anime;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
     -webkit-box-shadow: #03d3f8 2px 3px 30px;
-            box-shadow: #03d3f8 2px 3px 30px;
+    box-shadow: #03d3f8 2px 3px 30px;
     width: 40%;
     font-size: 20px;
     color: beige;
     font-family: 'BPG Mikheil Stefane';
 
 }
-.fkhali-top{
+
+.fkhali-top {
     margin-top: 50px;
 }
-.sacivi{
+
+.sacivi {
     width: 40%;
     border-radius: 5%;
     -webkit-box-shadow: 2px 2px 21px burlywood;
-            box-shadow: 2px 2px 21px burlywood;
+    box-shadow: 2px 2px 21px burlywood;
     border-radius: 5%;
     -webkit-animation-name: text-anime;
-            animation-name: text-anime;
+    animation-name: text-anime;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;
+    animation-duration: 3s;
 }
-.sacivi-Div{
+
+.sacivi-Div {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     margin-top: 50px;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: reverse;
-        -ms-flex-direction: row-reverse;
-            flex-direction: row-reverse;
+    -ms-flex-direction: row-reverse;
+    flex-direction: row-reverse;
 }
-.sacivia{
+
+.sacivia {
     width: 50%;
-    
+
 }
-.Elarji{
+
+.Elarji {
     width: 40%;
     border-radius: 5%;
     -webkit-box-shadow: 2px 2px 21px burlywood;
-            box-shadow: 2px 2px 21px burlywood;
+    box-shadow: 2px 2px 21px burlywood;
     border-radius: 5%;
     -webkit-animation-name: text-anime;
-            animation-name: text-anime;
+    animation-name: text-anime;
     -webkit-animation-iteration-count: infinite;
-            animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
     -webkit-animation-duration: 3s;
-            animation-duration: 3s;  
+    animation-duration: 3s;
 }
+
 /* aqamDee */
