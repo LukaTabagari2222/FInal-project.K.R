@@ -2759,8 +2759,12 @@ box-shadow: 2px 2px 21px cadetblue;
     -o-transition: 3s;
     transition: 3s;
     width: 230px;
+    
 }
-
+.vaxiAnd-Logo{
+    display: flex;
+    gap: 25px;
+}
 @-webkit-keyframes vazi {
     10% {
         color: rgb(0, 230, 38);
@@ -2975,7 +2979,7 @@ box-shadow: 2px 2px 21px cadetblue;
 
 .miani {
     width: 1440px;
-    width: 95%;
+    width: 95%; 
     margin: auto;
     margin-top: 100px;
 }
@@ -3091,16 +3095,13 @@ box-shadow: 2px 2px 21px cadetblue;
 }
 
 .carbent {
-
     font-family: JejuMyeongjo;
     font-size: 40px;
     font-weight: 400;
     line-height: 30px;
     letter-spacing: 0.315em;
-    text-align: left;
     color: rgba(255, 255, 255, 1);
     text-align: center;
-
 }
 
 .Dorema {
@@ -3109,7 +3110,6 @@ box-shadow: 2px 2px 21px cadetblue;
     font-size: 24px;
     font-weight: 400;
     line-height: 32.28px;
-    text-align: left;
     color: rgba(255, 255, 255, 1);
     text-shadow: 2px 2px red;
     width: 60%;
@@ -3140,7 +3140,7 @@ box-shadow: 2px 2px 21px cadetblue;
     font-size: 16px;
     font-weight: 400;
     line-height: 16px;
-    text-align: left;
+    text-align: center;
     color: rgba(255, 255, 255, 1);
 }
 
@@ -3165,8 +3165,6 @@ box-shadow: 2px 2px 21px cadetblue;
 .first-bac {
     width: 120px;
     height: 62px;
-    top: 2937px;
-    left: 153px;
     border: solid 1px;
     border-radius: 15px;
     border-color: beige;
@@ -3232,7 +3230,6 @@ box-shadow: 2px 2px 21px cadetblue;
     font-weight: 400;
     line-height: 45px;
     letter-spacing: 0.19em;
-    text-align: left;
     color: rgba(75, 33, 33, 1);
     text-align: center;
 }
