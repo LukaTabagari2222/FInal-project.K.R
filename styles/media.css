@@ -125,15 +125,9 @@
 .vaziSp-mtevaaNI{
   width: 100%;
 }
-.right-Divi{
-  height: 420vmax;
-}
+
 .agHsaniShnavi{
   text-align: center;
-}
-.levt-DIv{
-  height: 420vmax;
-
 }
 .imagewIteliVazi{
   width: 100%;
@@ -595,14 +589,7 @@
     overflow: hidden;
     line-height: 20px;
   }
- 
-  .right-Divi{
-    height: 600vmax;
-  }
-  .levt-DIv{
-    height: 600vmax;
-  
-  }
+
   .jvris-Strings{
     font-size: 15px;
   }
@@ -910,6 +897,13 @@
   .marjvena-Divi {
     height: 430vmax;
   }
+  .right-Divi {
+    display: none;
+  }
+
+  .levt-DIv {
+   display: none;
+  }
 }
 
 @media only screen and (max-width: 1024px) {
@@ -1047,19 +1041,9 @@
     width: 100%;
   }
 
-  .right-Divi {
-    height: 420vmax;
-  }
-
   .agHsaniShnavi {
     text-align: center;
   }
-
-  .levt-DIv {
-    height: 420vmax;
-
-  }
-
   .imagewIteliVazi {
     width: 100%;
   }
@@ -1651,16 +1635,6 @@
     overflow: hidden;
     line-height: 20px;
   }
-
-  .right-Divi {
-    height: 600vmax;
-  }
-
-  .levt-DIv {
-    height: 600vmax;
-
-  }
-
   .jvris-Strings {
     font-size: 15px;
   }
