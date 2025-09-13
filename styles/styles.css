@@ -2724,7 +2724,7 @@ box-shadow: 2px 2px 21px cadetblue;
 * Autoprefixer: v10.4.7
 * Browsers: last 4 version
 */
-
+@import url("./fonts.css");
 .hederDiv {
     display: -webkit-box;
     display: -ms-flexbox;
