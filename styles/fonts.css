@@ -113,3 +113,8 @@
          url('../fonts/bpg-mikheil-stefane-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/bpg-mikheil-stefane-webfont.svg#bpg_mikheil_stefaneregular') format('svg'); /* Legacy iOS */
 }
+@font-face{
+    font-family: 'newFont';
+    src: url('../fonts/3d_unicode.ttf') format("truetype");
+
+}

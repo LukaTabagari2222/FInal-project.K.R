@@ -5550,6 +5550,7 @@ input:hover {
     width: 55%;
     color: beige;
     text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-family: "newFont";
 }
 
 .gamravLeba {
