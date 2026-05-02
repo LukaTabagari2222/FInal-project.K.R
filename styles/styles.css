@@ -3841,7 +3841,7 @@ box-shadow: 2px 2px 21px cadetblue;
     margin-top: 30px;
 }
 
-.left-Div {
+/* .left-Div {
     width: 10%;
     height: 200vmax;
     float: left;
@@ -3852,7 +3852,7 @@ box-shadow: 2px 2px 21px cadetblue;
     animation-iteration-count: infinite;
     -webkit-animation-duration: 12s;
     animation-duration: 12s;
-}
+} */
 
 @-webkit-keyframes leftDiv {
     10% {
@@ -3899,7 +3899,7 @@ box-shadow: 2px 2px 21px cadetblue;
 }
 
 
-.right-DIv {
+/* .right-DIv {
     width: 10%;
     height: 200vmax;
     float: right;
@@ -3910,7 +3910,7 @@ box-shadow: 2px 2px 21px cadetblue;
     animation-iteration-count: infinite;
     -webkit-animation-duration: 12s;
     animation-duration: 12s;
-}
+} */
 
 @-webkit-keyframes rightDIv {
     10% {
@@ -4095,12 +4095,12 @@ box-shadow: 2px 2px 21px cadetblue;
     margin-top: 30px;
 }
 
-.marjvena-Divi {
+/* .marjvena-Divi {
     width: 25%;
     height: 200vmax;
     float: left;
     background-color: rgb(207, 199, 199);
-}
+} */
 
 .secTionS-ReseT {
     display: -webkit-box;
